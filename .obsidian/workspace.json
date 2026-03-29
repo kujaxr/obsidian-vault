@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BOOTSTRAP.md",
+                "file": "AGENTS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "BOOTSTRAP"
+              "title": "AGENTS"
             }
           }
         ]
@@ -174,6 +174,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -183,9 +184,43 @@
       "bases:新建数据库": false
     }
   },
-  "active": "19e56c8772945576",
+  "active": "242a89749ed94a54",
   "lastOpenFiles": [
-    "BOOTSTRAP.md",
-    "HEARTBEAT.md"
+    "knowledge_material/上汽资料/通用上汽外饰涂装标准对比.md",
+    "knowledge_material/上汽资料/镀锡镀银厚度供应商整理.md",
+    "knowledge_material/上汽资料/蚀刻过程简述.md",
+    "knowledge_material/上汽资料/金属材料失效分析手册-第12版 2023年10月.md",
+    "knowledge_material/上汽资料/表面保护组零件认可项目管理表格-new2020.4.1后.md",
+    "knowledge_material/上汽资料/色彩纹理开发流程0906.md",
+    "knowledge_material/上汽资料/签名.md",
+    "knowledge_material/上汽资料/乘用车营业执照签证.md",
+    "knowledge_material/上汽资料/大众表面保护牌号（benchmark）-20120830.md",
+    "knowledge_material/上汽资料/知识库文件-基材填料对外层油漆的影响.md",
+    "knowledge_material/上汽资料/涂装保养点检表.md",
+    "knowledge_material/上汽资料/电镀件管控要求--虞莲雯.md",
+    "knowledge_material/上汽资料/涂料黄变原因分析与控制专题报告.md",
+    "knowledge_material/上汽资料/整车开发流程（GVDP)交流-20151019.md",
+    "knowledge_material/上汽资料/外饰涂装件要求-上汽与FIAT标准对比.md",
+    "knowledge_material/上汽资料/上海汽车特殊工艺供应商质量能力评审报告-塑料件油漆涂装工艺过程审核报告20180808--BY徐睿.md",
+    "knowledge_material/上汽资料/all list240524.md",
+    "knowledge_material/上汽资料/上海汽车特殊工艺供应商质量能力评审报告-表面处理（装饰镀铬）工艺过程审核报告【XXXX公司名】--M2019XXXX--模板.md",
+    "knowledge_material/上汽资料/上海汽车特殊工艺供应商质量能力评审报告-表面处理（塑料油漆）工艺过程审核报告【XXX公司名】--M2019XXXX.md",
+    "knowledge_material/上汽资料/SVW保险杠实验取样区域要求2015.md",
+    "knowledge_material/上汽资料/INS外观评价标准.md",
+    "knowledge_material/上汽资料/CQI-11 电镀件工艺审核完全版Plating System Assessment_Work Sheets--20120627.md",
+    "knowledge_material/上汽资料/BOX-外饰涂装工艺 180419（提交版）.md",
+    "knowledge_material/S report/SCL-S-24-0100M-AP31M4-警告灯开关-徐睿.md",
+    "knowledge_material/S report/SCL-S-23-0177M-AP31MAJOR-PRND面板-徐睿.md",
+    "knowledge_material/S report/SCL-S-22-0085M-AP31MCE-出风口饰圈-徐睿.md",
+    "knowledge_material/知识积累",
+    "knowledge_material/标准",
+    "knowledge_material/工作手册",
+    "knowledge_material/参与行业标准",
+    "knowledge_material/专家小组BOX",
+    "knowledge_material/上汽资料",
+    "knowledge_material/WORK",
+    "knowledge_material/S report",
+    "knowledge_material/2026已归档",
+    "knowledge_material/2026"
   ]
 }
