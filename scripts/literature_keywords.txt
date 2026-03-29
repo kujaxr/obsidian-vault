@@ -1,0 +1,27 @@
+# 文献监控关键词列表
+# 每行一个关键词，支持中英文
+
+# 汽车/涂料相关
+functional coating automotive
+automotive paint adhesion
+car paint protection coating
+新能源汽车涂层材料
+汽车涂料新工艺
+
+# 3C电子相关
+3C coating material
+electronic coating nano
+smartphone coating technology
+防腐涂层 电子
+
+# 功能涂料/新材料
+functional coating
+nano coating surface
+smart coating self-healing
+功能涂料 新材料
+
+# 表面处理/工艺
+surface treatment technology
+corrosion protection coating
+paint adhesion promoter
+表面处理 新工艺

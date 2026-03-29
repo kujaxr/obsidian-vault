@@ -1,0 +1,127 @@
+📚 文献监控简报
+📅 2026-03-28 06:10:01
+🔑 关键词: functional coating automotive, automotive paint adhesion, car paint protection coating, 新能源汽车涂层材料, 汽车涂料新工艺, 3C coating material, electronic coating nano, smartphone coating technology, 防腐涂层 电子, functional coating, nano coating surface, smart coating self-healing, 功能涂料 新材料, surface treatment technology, corrosion protection coating, paint adhesion promoter, 表面处理 新工艺
+📊 数据来源: semantic_scholar, openalex, crossref, arxiv
+📄 共 188 篇文献
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🔗 OpenAlex (79篇)
+----------------------------------------
+  1. Structural engineering of polyurethane coatings for high per...
+     👥 D. K. Chattopadhyay, K. V. S. N. Raju
+     📅 2007 | ⭐ 1788次引用
+     🔗 https://doi.org/10.1016/j.progpolymsci.2006.05.003
+
+  2. Wet chemical functional coatings for automotive glasses and ...
+     👥 T. Morimoto, Y. Sanada, Hiroyuki Tomonag...
+     📅 2001 | ⭐ 46次引用
+     🔗 https://doi.org/10.1016/s0040-6090(01)01030-6
+
+  3. Low VOC carbamate functional coatings compositions for autom...
+     👥 Marvin L. Green
+     📅 2001 | ⭐ 17次引用
+     🔗 https://doi.org/10.1007/bf02698024
+
+  4. Recent Advances in Graphene-Based Nanocomposite Coatings for...
+     👥 R. Priyadharshini, Joseph Raj Xavier
+     📅 2025 | ⭐ 15次引用
+     🔗 https://doi.org/10.1007/s40735-025-01040-6
+
+  5. Recent Advances in Research on Carbon Nanotube–Polymer Compo...
+     👥 Michele T. Byrne, Yurii K. Gun’ko
+     📅 2009 | ⭐ 859次引用
+     🔗 https://doi.org/10.1002/adma.200901545
+
+
+🔗 Crossref (72篇)
+----------------------------------------
+  1. Fastener Coating Change for Efficient Functional Performance...
+     👥 Chandak, Katti, Raina
+     📅  | ⭐ 1次引用
+     🔗 https://doi.org/10.4271/2013-01-2899
+
+  2. Coating Technologies for Automotive Engine Applications
+     👥 Gangopadhyay
+     📅 2015 | ⭐ 7次引用
+     🔗 https://doi.org/10.1007/978-3-319-14771-0_4
+
+  3. Polymeric Engineering for Automotive Coating Applications
+     👥 Rink
+     📅 2008 | ⭐ 1次引用
+     🔗 https://doi.org/10.1002/9783527622375.ch7
+
+  4. EFFECT OF PLASMA TREATMENT ON WETTABILITY PROPERTIES OF THE ...
+     👥 ALTUNCU, KURTULDU
+     📅  | ⭐ 0次引用
+     🔗 https://doi.org/10.15659/ijaat.17.09.524
+
+  5. Automotive Catalysts
+     📅 2008 | ⭐ 0次引用
+     🔗 https://doi.org/10.1201/9781420011906-11
+
+
+🔗 arXiv (22篇)
+----------------------------------------
+  1. Pseudogap and Non-Fermi-liquid criticality in double Kondo m...
+     👥 Jing-Yu Zhao, Ya-Hui Zhang
+     📅 2026 | ⭐ 0次引用
+     🔗 http://arxiv.org/abs/2603.25742v1
+     📄 PDF可下载
+
+  2. Agent Factories for High Level Synthesis: How Far Can Genera...
+     👥 Abhishek Bhandwaldar, Mihir Choudhury, R...
+     📅 2026 | ⭐ 0次引用
+     🔗 http://arxiv.org/abs/2603.25719v1
+     📄 PDF可下载
+
+  3. Electrostatic Photoluminescence Tuning in All-Solid-State Pe...
+     👥 Vladimir Bruevich, Dmitry Maslennikov, B...
+     📅 2026 | ⭐ 0次引用
+     🔗 http://arxiv.org/abs/2603.25718v1
+     📄 PDF可下载
+
+  4. Painting a full radio sky -- Empirical mock catalogues with ...
+     👥 Tommaso Ronconi, Anna Bonaldi, Marta Spi...
+     📅 2026 | ⭐ 0次引用
+     🔗 http://arxiv.org/abs/2603.25650v1
+     📄 PDF可下载
+
+  5. Revisiting the Claim for a Direct-Collapse Black Hole in UHZ...
+     👥 Fan Zou, Elena Gallo, Zihao Zuo
+     📅 2026 | ⭐ 0次引用
+     🔗 http://arxiv.org/abs/2603.24893v1
+     📄 PDF可下载
+
+
+🔗 Semantic Scholar (15篇)
+----------------------------------------
+  1. Dual function Li-reactive coating from residual lithium on N...
+     👥 Tahir Sattar, Seong-Ju Sim, B. Jin...
+     📅 2021 | ⭐ 42次引用
+     🔗 https://www.semanticscholar.org/paper/6716d1ff36b2...
+     📄 PDF可下载
+
+  2. LATP ionic conductor and in-situ graphene hybrid-layer coati...
+     👥 Chun–Chen Yang, Jia-Rong Jiang, Chelladu...
+     📅 2018 | ⭐ 42次引用
+     🔗 https://www.semanticscholar.org/paper/76b76d2ca3c9...
+     📄 PDF可下载
+
+  3. The fabrication of stable superhydrophobic surfaces using a ...
+     👥 Afzal Khan, Shiraz Sohail, C. Jacob
+     📅 2015 | ⭐ 25次引用
+     🔗 https://www.semanticscholar.org/paper/7d2334b3ee6c...
+
+  4. Multilayer coating material and coating process
+     👥 C. Compera, M. Flik, A. Petrak...
+     📅 2013 | ⭐ 0次引用
+     🔗 https://www.semanticscholar.org/paper/42b49b0de510...
+
+  5. Use of acrylic copolymer as additive to aqueous anionic coat...
+     👥 P. Morre, H. Rauch-Puntigam, W. Staritzb...
+     📅 1989 | ⭐ 0次引用
+     🔗 https://www.semanticscholar.org/paper/71402b8506bd...
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📁 完整报告: scripts/literature/

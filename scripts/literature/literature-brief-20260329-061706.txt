@@ -1,0 +1,92 @@
+📚 文献监控简报
+📅 2026-03-29 06:10:01
+🔑 关键词: functional coating automotive, automotive paint adhesion, car paint protection coating, 新能源汽车涂层材料, 汽车涂料新工艺, 3C coating material, electronic coating nano, smartphone coating technology, 防腐涂层 电子, functional coating, nano coating surface, smart coating self-healing, 功能涂料 新材料, surface treatment technology, corrosion protection coating, paint adhesion promoter, 表面处理 新工艺
+📊 数据来源: semantic_scholar, openalex, crossref, arxiv
+📄 共 153 篇文献
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🔗 OpenAlex (71篇)
+----------------------------------------
+  1. Structural engineering of polyurethane coatings for high per...
+     👥 D. K. Chattopadhyay, K. V. S. N. Raju
+     📅 2007 | ⭐ 1788次引用
+     🔗 https://doi.org/10.1016/j.progpolymsci.2006.05.003
+
+  2. Wet chemical functional coatings for automotive glasses and ...
+     👥 T. Morimoto, Y. Sanada, Hiroyuki Tomonag...
+     📅 2001 | ⭐ 46次引用
+     🔗 https://doi.org/10.1016/s0040-6090(01)01030-6
+
+  3. Low VOC carbamate functional coatings compositions for autom...
+     👥 Marvin L. Green
+     📅 2001 | ⭐ 17次引用
+     🔗 https://doi.org/10.1007/bf02698024
+
+  4. Recent Advances in Graphene-Based Nanocomposite Coatings for...
+     👥 R. Priyadharshini, Joseph Raj Xavier
+     📅 2025 | ⭐ 15次引用
+     🔗 https://doi.org/10.1007/s40735-025-01040-6
+
+  5. Recent Advances in Research on Carbon Nanotube–Polymer Compo...
+     👥 Michele T. Byrne, Yurii K. Gun’ko
+     📅 2009 | ⭐ 859次引用
+     🔗 https://doi.org/10.1002/adma.200901545
+
+
+🔗 Crossref (72篇)
+----------------------------------------
+  1. Fastener Coating Change for Efficient Functional Performance...
+     👥 Chandak, Katti, Raina
+     📅  | ⭐ 1次引用
+     🔗 https://doi.org/10.4271/2013-01-2899
+
+  2. Coating Technologies for Automotive Engine Applications
+     👥 Gangopadhyay
+     📅 2015 | ⭐ 7次引用
+     🔗 https://doi.org/10.1007/978-3-319-14771-0_4
+
+  3. Polymeric Engineering for Automotive Coating Applications
+     👥 Rink
+     📅 2008 | ⭐ 1次引用
+     🔗 https://doi.org/10.1002/9783527622375.ch7
+
+  4. EFFECT OF PLASMA TREATMENT ON WETTABILITY PROPERTIES OF THE ...
+     👥 ALTUNCU, KURTULDU
+     📅  | ⭐ 0次引用
+     🔗 https://doi.org/10.15659/ijaat.17.09.524
+
+  5. Automotive Catalysts
+     📅 2008 | ⭐ 0次引用
+     🔗 https://doi.org/10.1201/9781420011906-11
+
+
+🔗 Semantic Scholar (10篇)
+----------------------------------------
+  1. 涂装节能新工艺、新材料、新设备和涂装管理
+     👥 司育进
+     📅 2015 | ⭐ 0次引用
+     🔗 https://www.semanticscholar.org/paper/d467bc9fa791...
+
+  2. 致力于环保型汽车涂料产品和技术 访艾仕得涂料系统总裁约翰·麦库尔（John G.McCool）
+     👥 彭斐
+     📅 2013 | ⭐ 0次引用
+     🔗 https://www.semanticscholar.org/paper/6ef45eed430d...
+
+  3. 汽车车身涂装工艺系列讲座（十）——塑料底材的涂装
+     👥 张湘衡
+     📅 2009 | ⭐ 0次引用
+     🔗 https://www.semanticscholar.org/paper/c41e03901d2a...
+
+  4. High temperature resistant conductive ppo / pa6 alloy materi...
+     👥 马庆丰, 孙剑, 宫克难
+     📅 2012 | ⭐ 0次引用
+     🔗 https://www.semanticscholar.org/paper/a40d9f1627c1...
+
+  5. 舞动新金属材料科学前沿（2）——北京科技大学新金属材料国家重点实验室的新金属材料研究进展
+     👥 隋延力, 李忠富, 张济山...
+     📅 2012 | ⭐ 0次引用
+     🔗 https://www.semanticscholar.org/paper/785204af6c07...
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📁 完整报告: scripts/literature/

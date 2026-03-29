@@ -1,0 +1,525 @@
+{
+  "timestamp": "2026-03-26 06:51:35",
+  "keywords": [
+    "iPhone"
+  ],
+  "results": {
+    "hackernews": [
+      {
+        "rank": 1,
+        "title": "Running Tesla Model 3's computer on my desk using parts from crashed cars",
+        "score": 128,
+        "author": "driesdep",
+        "comments": 20,
+        "url": "https://bugs.xdavidhu.me/tesla/2026/03/23/running-tesla-model-3s-computer-on-my-desk-using-parts-from-crashed-cars/"
+      },
+      {
+        "rank": 2,
+        "title": "The EU still wants to scan  your private messages and photos",
+        "score": 477,
+        "author": "MrBruh",
+        "comments": 148,
+        "url": "https://fightchatcontrol.eu/?foo=bar"
+      },
+      {
+        "rank": 3,
+        "title": "ARC-AGI-3",
+        "score": 175,
+        "author": "lairv",
+        "comments": 123,
+        "url": "https://arcprize.org/arc-agi/3"
+      },
+      {
+        "rank": 4,
+        "title": "Earthquake scientists reveal how overplowing weakens soil at experimental farm",
+        "score": 59,
+        "author": "Brajeshwar",
+        "comments": 21,
+        "url": "https://www.washington.edu/news/2026/03/19/earthquake-scientists-reveal-how-overplowing-weakens-soil-at-experimental-farm/"
+      },
+      {
+        "rank": 5,
+        "title": "90% of Claude-linked output going to GitHub repos w <2 stars",
+        "score": 103,
+        "author": "louiereederson",
+        "comments": 64,
+        "url": "https://www.claudescode.dev/?window=since_launch"
+      },
+      {
+        "rank": 6,
+        "title": "My astrophotography in the movie Project Hail Mary",
+        "score": 640,
+        "author": "wallflower",
+        "comments": 174,
+        "url": "https://rpastro.square.site/s/stories/phm"
+      },
+      {
+        "rank": 7,
+        "title": "Apple randomly closes bug reports unless you \"verify\" the bug remains unfixed",
+        "score": 193,
+        "author": "zdw",
+        "comments": 99,
+        "url": "https://lapcatsoftware.com/articles/2026/3/11.html"
+      },
+      {
+        "rank": 8,
+        "title": "Supreme Court Sides with Cox in Copyright Fight over Pirated Music",
+        "score": 230,
+        "author": "oj2828",
+        "comments": 216,
+        "url": "https://www.nytimes.com/2026/03/25/us/politics/supreme-court-cox-music-copyright.html"
+      },
+      {
+        "rank": 9,
+        "title": "Quantization from the Ground Up",
+        "score": 152,
+        "author": "samwho",
+        "comments": 29,
+        "url": "https://ngrok.com/blog/quantization"
+      },
+      {
+        "rank": 10,
+        "title": "Ensu – Ente’s Local LLM app",
+        "score": 316,
+        "author": "matthiaswh",
+        "comments": 142,
+        "url": "https://ente.com/blog/ensu/"
+      }
+    ],
+    "wikipedia": [
+      {
+        "keyword": "iPhone",
+        "results": [
+          {
+            "title": "IPhone",
+            "snippet": "accessibility features. Up to the iPhone 8 and 8 Plus, iPhones had a single button on the front panel, with the iPhone 5",
+            "url": "https://en.wikipedia.org/wiki/IPhone"
+          },
+          {
+            "title": "List of iPhone models",
+            "snippet": "Introduced by then-CEO Steve Jobs on January 9, 2007, the iPhone revolutionized the mobile phone industry with its multi",
+            "url": "https://en.wikipedia.org/wiki/List_of_iPhone_models"
+          },
+          {
+            "title": "History of the iPhone",
+            "snippet": "of Mexico upheld that iFone is the rightful owner and held that Apple iPhone is a trademark violation. In Brazil, the br",
+            "url": "https://en.wikipedia.org/wiki/History_of_the_iPhone"
+          },
+          {
+            "title": "IPhone (1st generation)",
+            "snippet": "The iPhone is a smartphone developed and marketed by Apple as the first device in the iPhone lineup of smartphones. It f",
+            "url": "https://en.wikipedia.org/wiki/IPhone_(1st_generation)"
+          },
+          {
+            "title": "IOS",
+            "snippet": "iOS (formerly iPhone OS) is a mobile operating system created and developed by Apple for its iPhone line of smartphones.",
+            "url": "https://en.wikipedia.org/wiki/IOS"
+          }
+        ]
+      }
+    ],
+    "v2ex": [
+      {
+        "rank": 1,
+        "title": "四年前听张雪峰报考计算机的现在会后悔吗",
+        "replies": 212
+      },
+      {
+        "rank": 2,
+        "title": "我很佩服也很羡慕张雪峰",
+        "replies": 132
+      },
+      {
+        "rank": 3,
+        "title": "token 的中文翻译，正式定为词元，如何？",
+        "replies": 119
+      },
+      {
+        "rank": 4,
+        "title": "我是不是错过了，真想给自己两巴掌！",
+        "replies": 108
+      },
+      {
+        "rank": 5,
+        "title": "山地车 or 公路车？",
+        "replies": 107
+      },
+      {
+        "rank": 6,
+        "title": "周杰伦新专辑《太阳之子》发了，各位还听吗？",
+        "replies": 105
+      },
+      {
+        "rank": 7,
+        "title": "感觉我里外都不是人，成了夹心饼干",
+        "replies": 105
+      },
+      {
+        "rank": 8,
+        "title": "如何选择企业级 NAS 系统？",
+        "replies": 93
+      }
+    ],
+    "devto": [
+      {
+        "rank": 1,
+        "title": "your agent can think. it can't remember.",
+        "author": "ghostdotbuild",
+        "reactions": 119,
+        "comments": 22,
+        "tags": "ai, mcp, postgres, agents",
+        "url": "https://dev.to/ghostbuild/your-agent-can-think-it-cant-remember-5e1o"
+      },
+      {
+        "rank": 2,
+        "title": "Why hiring junior developers pays off more than you think (I’ve lived it firsthand)",
+        "author": "javz",
+        "reactions": 33,
+        "comments": 17,
+        "tags": "devchallenge, wecoded, dei, career",
+        "url": "https://dev.to/javz/why-hiring-junior-developers-pays-off-more-than-you-think-ive-lived-it-firsthand-1lg2"
+      },
+      {
+        "rank": 3,
+        "title": "NotionOps AI — I Built an AI DevOps Brain That Lives Inside Notion 🧠",
+        "author": "yash_sonawane25",
+        "reactions": 10,
+        "comments": 2,
+        "tags": "devchallenge, notionchallenge, mcp, ai",
+        "url": "https://dev.to/yash_sonawane25/notionops-ai-i-built-an-ai-devops-brain-that-lives-inside-notion-3foh"
+      },
+      {
+        "rank": 4,
+        "title": "I Built a Clipboard Manager for Kali Linux — And Learned Way More Than Expected",
+        "author": "freerave",
+        "reactions": 3,
+        "comments": 1,
+        "tags": "python, linux, opensource, productivity",
+        "url": "https://dev.to/freerave/i-built-a-clipboard-manager-for-kali-linux-and-learned-way-more-than-expected-3hm9"
+      },
+      {
+        "rank": 5,
+        "title": "Vim + Markdown = Writer's Heaven",
+        "author": "ahalbert",
+        "reactions": 2,
+        "comments": 2,
+        "tags": "vim, markdown, webdev",
+        "url": "https://dev.to/ahalbert/vim-markdown-writers-heaven-24m8"
+      },
+      {
+        "rank": 6,
+        "title": "Run Away From Work — Stopped Using React for the Game Loop",
+        "author": "nyaomaru",
+        "reactions": 6,
+        "comments": 0,
+        "tags": "showdev, gamedev, react, typescript",
+        "url": "https://dev.to/nyaomaru/run-away-from-work-stopped-using-react-for-the-game-loop-3e0k"
+      },
+      {
+        "rank": 7,
+        "title": "Free LocalStack Alternative — 20 AWS Services and counting",
+        "author": "nahuel990",
+        "reactions": 1,
+        "comments": 1,
+        "tags": "aws, docker, python, opensource",
+        "url": "https://dev.to/nahuel990/free-localstack-alternative-20-aws-services-and-counting-4ob1"
+      },
+      {
+        "rank": 8,
+        "title": "Integrating Vuetify v4 with TailwindCSS v4 in a Vite project",
+        "author": "jsek",
+        "reactions": 1,
+        "comments": 0,
+        "tags": "vuetify, tailwindcss, vite, themes",
+        "url": "https://dev.to/jsek/integrating-vuetify-v4-with-tailwindcss-v4-in-a-vite-project-5d6p"
+      },
+      {
+        "rank": 9,
+        "title": "Zero-copy protobuf and ConnectRPC for Rust",
+        "author": "iainmcgin",
+        "reactions": 0,
+        "comments": 0,
+        "tags": "protobuf, connectrpc, rust, anthropic",
+        "url": "https://dev.to/iainmcgin/zero-copy-protobuf-and-connectrpc-for-rust-1m3e"
+      },
+      {
+        "rank": 10,
+        "title": "When to Use Multi-Agent Systems (And When Not To)",
+        "author": "diven_rastdus_c5af27d68f3",
+        "reactions": 0,
+        "comments": 0,
+        "tags": "ai, agents, architecture, typescript",
+        "url": "https://dev.to/diven_rastdus_c5af27d68f3/when-to-use-multi-agent-systems-and-when-not-to-5ah1"
+      }
+    ],
+    "stackoverflow": [
+      {
+        "title": "How can I continue learning Python?",
+        "score": 0,
+        "answers": 0,
+        "url": "https://stackoverflow.com/questions/79914652/how-can-i-continue-learning-python"
+      },
+      {
+        "title": "Choosing the best AI coding assistant for reasoning vs speed vs workflow efficiency",
+        "score": 0,
+        "answers": 1,
+        "url": "https://stackoverflow.com/questions/79914658/choosing-the-best-ai-coding-assistant-for-reasoning-vs-speed-vs-workflow-efficie"
+      },
+      {
+        "title": "Hi im a beginier c programer i need to ask a question as it regard to cnverting your c code to psudo code",
+        "score": -5,
+        "answers": 0,
+        "url": "https://stackoverflow.com/questions/79914650/hi-im-a-beginier-c-programer-i-need-to-ask-a-question-as-it-regard-to-cnverting"
+      },
+      {
+        "title": "How to create alert for array and UDT",
+        "score": 0,
+        "answers": 0,
+        "url": "https://stackoverflow.com/questions/79914622/how-to-create-alert-for-array-and-udt"
+      },
+      {
+        "title": "D365 team based routing for over 50 teams",
+        "score": 0,
+        "answers": 0,
+        "url": "https://stackoverflow.com/questions/79914625/d365-team-based-routing-for-over-50-teams"
+      },
+      {
+        "title": "Prevent chunking from .net web api",
+        "score": 0,
+        "answers": 0,
+        "url": "https://stackoverflow.com/questions/79914630/prevent-chunking-from-net-web-api"
+      },
+      {
+        "title": "General advice / Other",
+        "score": 0,
+        "answers": 4,
+        "url": "https://stackoverflow.com/questions/79914592/general-advice-other"
+      },
+      {
+        "title": "How can I convert mp3/wav/m4a to aac using only vanilla JavaScript?",
+        "score": 0,
+        "answers": 4,
+        "url": "https://stackoverflow.com/questions/79914574/how-can-i-convert-mp3-wav-m4a-to-aac-using-only-vanilla-javascript"
+      },
+      {
+        "title": "How can I restore the VS Code color theme after update 1.113?",
+        "score": -1,
+        "answers": 1,
+        "url": "https://stackoverflow.com/questions/79914612/how-can-i-restore-the-vs-code-color-theme-after-update-1-113"
+      },
+      {
+        "title": "How can I take a picture of an entire page of a website (desktop) using JavaScript?",
+        "score": 0,
+        "answers": 3,
+        "url": "https://stackoverflow.com/questions/79914582/how-can-i-take-a-picture-of-an-entire-page-of-a-website-desktop-using-javascri"
+      }
+    ],
+    "weibo": {
+      "hot": [
+        {
+          "category": "汽车",
+          "hot_value": 559366,
+          "label": "热",
+          "rank": 1,
+          "url": "https://s.weibo.com/weibo?q=%23%E8%80%81%E5%A4%B4%E4%B9%90%E8%B5%B7%E8%AF%89%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%23",
+          "word": "老头乐起诉小米汽车"
+        },
+        {
+          "category": "国际时政",
+          "hot_value": 411623,
+          "label": "",
+          "rank": 2,
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8F%B2%E5%BE%8B%E5%AE%BE%E7%BA%A0%E9%9B%86%E5%A4%A7%E9%87%8F%E8%88%B9%E5%8F%AA%E5%86%B2%E9%97%AF%E4%B8%AD%E6%96%B9%E6%BC%94%E8%AE%AD%E5%8C%BA%23",
+          "word": "菲律宾纠集大量船只冲闯中方演训区"
+        },
+        {
+          "category": "民生新闻",
+          "hot_value": 334886,
+          "label": "",
+          "rank": 3,
+          "url": "https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%86%9C%E4%BC%98%E5%93%81%E6%88%91%E5%9C%A8%E5%AE%B6%E4%B9%A1%E7%AD%89%E4%BD%A0%E6%9D%A5%23",
+          "word": "福农优品我在家乡等你来"
+        },
+        {
+          "category": "健康医疗",
+          "hot_value": 308965,
+          "label": "热",
+          "rank": 4,
+          "url": "https://s.weibo.com/weibo?q=%23%E7%86%AC%E5%A4%9C%E4%B8%8D%E6%98%AF%E7%8C%9D%E6%AD%BB%E7%9A%84%E7%AC%AC%E4%B8%80%E6%9D%80%E6%89%8B%23",
+          "word": "熬夜不是猝死的第一杀手"
+        },
+        {
+          "category": "财经",
+          "hot_value": 176075,
+          "label": "",
+          "rank": 5,
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E8%AF%B4%E9%BB%84%E9%87%91%E6%AD%A3%E9%87%8D%E6%BC%9408%E5%B9%B4%E5%89%A7%E6%9C%AC%23",
+          "word": "专家说黄金正重演08年剧本"
+        },
+        {
+          "category": "国际时政",
+          "hot_value": 165584,
+          "label": "",
+          "rank": 6,
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%8F%90%E5%87%BA%E5%85%B3%E4%BA%8E%E5%81%9C%E6%88%985%E9%A1%B9%E6%9D%A1%E4%BB%B6%23",
+          "word": "伊朗提出关于停战5项条件"
+        },
+        {
+          "category": "民生新闻",
+          "hot_value": 147352,
+          "label": "",
+          "rank": 7,
+          "url": "https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%B1%B1%E8%BD%A6%E7%A5%B8%23",
+          "word": "西山车祸"
+        },
+        {
+          "category": "健康医疗",
+          "hot_value": 133062,
+          "label": "",
+          "rank": 8,
+          "url": "https://s.weibo.com/weibo?q=%23%E9%80%9F%E6%95%88%E6%95%91%E5%BF%83%E4%B8%B8%E6%9C%80%E5%A5%BD%E4%B8%8D%E8%A6%81%E8%B4%B4%E8%BA%AB%E6%90%BA%E5%B8%A6%23",
+          "word": "速效救心丸最好不要贴身携带"
+        },
+        {
+          "category": "国际时政",
+          "hot_value": 94625,
+          "label": "",
+          "rank": 9,
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9D%9A%E5%86%B3%E5%8F%8D%E5%AF%B9%E7%BE%8E%E5%BC%BA%E8%A1%8C%E6%8E%A7%E5%88%B6%E4%B8%80%E5%9B%BD%E5%85%83%E9%A6%96%23",
+          "word": "中方坚决反对美强行控制一国元首"
+        },
+        {
+          "category": "剧集",
+          "hot_value": 85101,
+          "label": "",
+          "rank": 10,
+          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%AB%E8%A3%85%E6%A8%8A%E9%95%BF%E7%8E%89%23",
+          "word": "宫装樊长玉"
+        }
+      ]
+    },
+    "bilibili": {
+      "hot": [
+        {
+          "rank": 1,
+          "title": "【塞尔达】看好了！这才是游戏史上最伟大的物理引擎！第六期",
+          "author": "波克楠楠",
+          "play": 2265897,
+          "danmaku": 1564
+        },
+        {
+          "rank": 2,
+          "title": "【AI 周杰伦】《那天下雨了》+5Key 升调版",
+          "author": "Eternity-Li",
+          "play": 858083,
+          "danmaku": 1952
+        },
+        {
+          "rank": 3,
+          "title": "来的时候好好的…",
+          "author": "小潮院长",
+          "play": 665034,
+          "danmaku": 7265
+        },
+        {
+          "rank": 4,
+          "title": "华强买瓜，但过于学术",
+          "author": "一起座谈会",
+          "play": 1240915,
+          "danmaku": 1722
+        },
+        {
+          "rank": 5,
+          "title": "收集了100个人的梦，我们发现了奇怪的关联…",
+          "author": "影视飓风",
+          "play": 2720303,
+          "danmaku": 8673
+        },
+        {
+          "rank": 6,
+          "title": "生活化减脂餐 云朵番茄炒蛋超详细做法来啦",
+          "author": "火焰魔法师gogo",
+          "play": 2797736,
+          "danmaku": 1742
+        },
+        {
+          "rank": 7,
+          "title": "“建议查查尹正，不像演的！”",
+          "author": "爱睡觉的_Koala",
+          "play": 3870707,
+          "danmaku": 1185
+        },
+        {
+          "rank": 8,
+          "title": "不允许有人还没看过今年的东京女孩走秀！",
+          "author": "会唱跳Rap的胖虎",
+          "play": 865263,
+          "danmaku": 760
+        },
+        {
+          "rank": 9,
+          "title": "和谈了但没谈，万税爷谈判谈出新高度！",
+          "author": "麻薯波比呀",
+          "play": 899861,
+          "danmaku": 4760
+        },
+        {
+          "rank": 10,
+          "title": "【RAY评】从夯到拉锐评周杰伦新专《太阳之子》！问题出在哪里？",
+          "author": "阿张RayZhang",
+          "play": 830677,
+          "danmaku": 13146
+        }
+      ]
+    },
+    "xiaohongshu": {
+      "search": [
+        {
+          "keyword": "iPhone",
+          "results": [
+            {
+              "rank": 1,
+              "author": "章鱼哥科技2025-12-10",
+              "author_url": "https://www.xiaohongshu.com/user/profile/64bfeeeb000000001403c0df?channel_type=web_search_result_notes&parent_page_channel_type=web_profile_board&xsec_token=ABk3B8RGaWPf5r4CKVBi4QucLXgDnheX4_NPvM3OfRuLI=&xsec_source=pc_search",
+              "likes": "499",
+              "title": "信息差推荐iPhone排行榜🔥‼️",
+              "url": "https://www.xiaohongshu.com/search_result/6938479e000000001e03a350?xsec_token=ABW4AoYDiZqCPcb2RKvChcujoXroOk6eUD3qBzMGOmYHw=&xsec_source="
+            },
+            {
+              "rank": 2,
+              "author": "娜仙菇01-03",
+              "author_url": "https://www.xiaohongshu.com/user/profile/5d1b4647000000001002bbb1?channel_type=web_search_result_notes&parent_page_channel_type=web_profile_board&xsec_token=AB1aTQ_8pGICfx6vH4kZ9AaT-Xmnxlgeg1Jqq30JK--O0=&xsec_source=pc_search",
+              "likes": "474",
+              "title": "近8代iPhone内部结构及电池容量变化",
+              "url": "https://www.xiaohongshu.com/search_result/69590c29000000001e01639a?xsec_token=ABe8hqCPvJz0nn0TKa8Gr9LKcRWCt2tB86Sxcytp6iEVE=&xsec_source="
+            },
+            {
+              "rank": 3,
+              "author": "循时驭势01-29",
+              "author_url": "https://www.xiaohongshu.com/user/profile/64870db6000000001f007b52?channel_type=web_search_result_notes&parent_page_channel_type=web_profile_board&xsec_token=ABsEsWYTakZl-TaSO-Z-senn7CfuNajNKOxUrWwQn9Cgc=&xsec_source=pc_search",
+              "likes": "319",
+              "title": "见到了iPhone 17e真机",
+              "url": "https://www.xiaohongshu.com/search_result/697b26b7000000002202c8e7?xsec_token=AByhBkrVxkF-ylVtio4HGUQNOclmgqZAdlZT-whMh7bmg=&xsec_source="
+            },
+            {
+              "rank": 4,
+              "author": "科技小欧2025-09-23",
+              "author_url": "https://www.xiaohongshu.com/user/profile/5f8eeaa50000000001002555?channel_type=web_search_result_notes&parent_page_channel_type=web_profile_board&xsec_token=AB0lgHdRjMdh66FCQJHRWv8nlx7Jedp6riU1XEkYiBfMA=&xsec_source=pc_search",
+              "likes": "811",
+              "title": "2025年花了50元买了一台15年前的iPhone4s",
+              "url": "https://www.xiaohongshu.com/search_result/68d0c1c9000000001301ff76?xsec_token=AB9bDW8pJf93mJvr4sw1-XK56za_MxzDLsTRUPTY6juyU=&xsec_source="
+            },
+            {
+              "rank": 5,
+              "author": "玩机阿搞01-16",
+              "author_url": "https://www.xiaohongshu.com/user/profile/61e7c6c6000000001000be1e?channel_type=web_search_result_notes&parent_page_channel_type=web_profile_board&xsec_token=ABuElsPF2zikaPdVD7nQm6tl8lrpLafTJZDOnw81rVEl4=&xsec_source=pc_search",
+              "likes": "609",
+              "title": "iPhone折叠屏超前上手！看完配置我沉默了..",
+              "url": "https://www.xiaohongshu.com/search_result/6968b779000000001a01fc2e?xsec_token=ABnMH5K_-1c4uktK14qX2VBrTk3qddV2vvZ5R-9gvBPV4=&xsec_source="
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

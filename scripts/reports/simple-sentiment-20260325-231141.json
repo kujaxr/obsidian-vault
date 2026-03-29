@@ -1,0 +1,380 @@
+{
+  "timestamp": "2026-03-25 23:11:14",
+  "keywords": [
+    "iPhone",
+    "AI",
+    "小米汽车"
+  ],
+  "results": {
+    "hackernews": [
+      {
+        "rank": 1,
+        "title": "Apple Just Lost Me",
+        "score": 203,
+        "author": "syx",
+        "comments": 152,
+        "url": "https://andregarzia.com/2026/03/apple-just-lost-me.html"
+      },
+      {
+        "rank": 2,
+        "title": "Local LLM App by Ente",
+        "score": 135,
+        "author": "matthiaswh",
+        "comments": 51,
+        "url": "https://ente.com/blog/ensu/"
+      },
+      {
+        "rank": 3,
+        "title": "Meta told to pay $375M for misleading users over child safety",
+        "score": 341,
+        "author": "testrun",
+        "comments": 181,
+        "url": "https://www.bbc.com/news/articles/cql75dn07n2o"
+      },
+      {
+        "rank": 4,
+        "title": "My Astrophotography in the Movie Project Hail Mary",
+        "score": 162,
+        "author": "wallflower",
+        "comments": 60,
+        "url": "https://rpastro.square.site/s/stories/phm"
+      },
+      {
+        "rank": 5,
+        "title": "TurboQuant: Redefining AI efficiency with extreme compression",
+        "score": 320,
+        "author": "ray__",
+        "comments": 91,
+        "url": "https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/"
+      },
+      {
+        "rank": 6,
+        "title": "Goodbye to Sora",
+        "score": 906,
+        "author": "mikeocool",
+        "comments": 663,
+        "url": "https://twitter.com/soraofficialapp/status/2036532795984715896"
+      },
+      {
+        "rank": 7,
+        "title": "VitruvianOS – Desktop Linux Inspired by the BeOS",
+        "score": 249,
+        "author": "felixding",
+        "comments": 148,
+        "url": "https://v-os.dev"
+      },
+      {
+        "rank": 8,
+        "title": "OpenAI's latest repo has Claude as the third top contributor",
+        "score": 24,
+        "author": "mirzap",
+        "comments": 5,
+        "url": "https://twitter.com/CodeByNZ/status/2036723050197012771"
+      },
+      {
+        "rank": 9,
+        "title": "Flighty Airports",
+        "score": 409,
+        "author": "skogstokig",
+        "comments": 149,
+        "url": "https://flighty.com/airports"
+      },
+      {
+        "rank": 10,
+        "title": "Tell HN: Litellm 1.82.7 and 1.82.8 on PyPI are compromised",
+        "score": 813,
+        "author": "dot_treo",
+        "comments": 455,
+        "url": "https://github.com/BerriAI/litellm/issues/24512"
+      }
+    ],
+    "wikipedia": [
+      {
+        "keyword": "iPhone",
+        "results": [
+          {
+            "title": "IPhone",
+            "snippet": "accessibility features. Up to the iPhone 8 and 8 Plus, iPhones had a single button on the front panel, with the iPhone 5",
+            "url": "https://en.wikipedia.org/wiki/IPhone"
+          },
+          {
+            "title": "List of iPhone models",
+            "snippet": "Introduced by then-CEO Steve Jobs on January 9, 2007, the iPhone revolutionized the mobile phone industry with its multi",
+            "url": "https://en.wikipedia.org/wiki/List_of_iPhone_models"
+          },
+          {
+            "title": "History of the iPhone",
+            "snippet": "of Mexico upheld that iFone is the rightful owner and held that Apple iPhone is a trademark violation. In Brazil, the br",
+            "url": "https://en.wikipedia.org/wiki/History_of_the_iPhone"
+          },
+          {
+            "title": "IPhone (1st generation)",
+            "snippet": "The iPhone is a smartphone developed and marketed by Apple as the first device in the iPhone lineup of smartphones. It f",
+            "url": "https://en.wikipedia.org/wiki/IPhone_(1st_generation)"
+          },
+          {
+            "title": "IOS",
+            "snippet": "iOS (formerly iPhone OS) is a mobile operating system created and developed by Apple for its iPhone line of smartphones.",
+            "url": "https://en.wikipedia.org/wiki/IOS"
+          }
+        ]
+      },
+      {
+        "keyword": "AI",
+        "results": [
+          {
+            "title": "Artificial intelligence",
+            "snippet": "Artificial intelligence (AI) is the capability of computational systems to perform tasks typically associated with human",
+            "url": "https://en.wikipedia.org/wiki/Artificial_intelligence"
+          },
+          {
+            "title": "Ai",
+            "snippet": "Ai, ai, or AI in Wiktionary, the free dictionary. AI commonly refers to artificial intelligence, which is intelligence d",
+            "url": "https://en.wikipedia.org/wiki/Ai"
+          },
+          {
+            "title": "Generative AI",
+            "snippet": "Generative artificial intelligence, also known as generative AI or GenAI, is a subfield of artificial intelligence that ",
+            "url": "https://en.wikipedia.org/wiki/Generative_AI"
+          },
+          {
+            "title": ".ai",
+            "snippet": "within off.ai, com.ai, net.ai, and org.ai are available worldwide without restriction. From 15 September 2009, second le",
+            "url": "https://en.wikipedia.org/wiki/.ai"
+          },
+          {
+            "title": "AI art",
+            "snippet": "intelligence visual art, or AI art, is visual artwork generated or enhanced through the implementation of artificial int",
+            "url": "https://en.wikipedia.org/wiki/AI_art"
+          }
+        ]
+      },
+      {
+        "keyword": "小米汽车",
+        "results": [
+          {
+            "title": "Xiaomi Auto",
+            "snippet": "Xiaomi Auto (小米汽车; legally Xiaomi Automobile Co Ltd) is a Chinese electric vehicle manufacturer headquartered in Beijing",
+            "url": "https://en.wikipedia.org/wiki/Xiaomi_Auto"
+          },
+          {
+            "title": "Xiaomi YU7",
+            "snippet": "Visitor System&quot; 向大家介绍小米汽车的新成员：小米YU7 这款SUV新车，预计于明年六七月正式上市。. Weibo (in Chinese). Xiaomi Auto. Retrieved 9 December 20",
+            "url": "https://en.wikipedia.org/wiki/Xiaomi_YU7"
+          },
+          {
+            "title": "Xiaomi SU7",
+            "snippet": "2024. &quot;雷军年度演讲：小米这五年的&quot;改变&quot;，以及小米17 系列全新旗舰&quot;. Weixin. 雷军. 25 September 2025. Retrieved 21 November 2025. ",
+            "url": "https://en.wikipedia.org/wiki/Xiaomi_SU7"
+          },
+          {
+            "title": "Dolby Atmos",
+            "snippet": "from the original on March 22, 2021. Retrieved April 4, 2021. &quot;参数配置 | 小米汽车&quot;. 小米汽车. Retrieved February 12, 2026",
+            "url": "https://en.wikipedia.org/wiki/Dolby_Atmos"
+          },
+          {
+            "title": "Xiaomi",
+            "snippet": "Xiaomi (/ˈʃaʊmi/; Chinese: 小米; pinyin: Xiǎomǐ) is a Chinese multinational corporation and technology company headquarter",
+            "url": "https://en.wikipedia.org/wiki/Xiaomi"
+          }
+        ]
+      }
+    ],
+    "v2ex": [
+      {
+        "rank": 1,
+        "title": "四年前听张雪峰报考计算机的现在会后悔吗",
+        "replies": 209
+      },
+      {
+        "rank": 2,
+        "title": "我很佩服也很羡慕张雪峰",
+        "replies": 127
+      },
+      {
+        "rank": 3,
+        "title": "token 的中文翻译，正式定为词元，如何？",
+        "replies": 117
+      },
+      {
+        "rank": 4,
+        "title": "山地车 or 公路车？",
+        "replies": 106
+      },
+      {
+        "rank": 5,
+        "title": "感觉我里外都不是人，成了夹心饼干",
+        "replies": 105
+      },
+      {
+        "rank": 6,
+        "title": "我是不是错过了，真想给自己两巴掌！",
+        "replies": 102
+      },
+      {
+        "rank": 7,
+        "title": "周杰伦新专辑《太阳之子》发了，各位还听吗？",
+        "replies": 100
+      },
+      {
+        "rank": 8,
+        "title": "如何选择企业级 NAS 系统？",
+        "replies": 92
+      }
+    ],
+    "devto": [
+      {
+        "rank": 1,
+        "title": "Top 7 Featured DEV Posts of the Week",
+        "author": "jess",
+        "reactions": 35,
+        "comments": 6,
+        "tags": "top7, discuss",
+        "url": "https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-4ig2"
+      },
+      {
+        "rank": 2,
+        "title": "Check Up with Each Other",
+        "author": "francistrdev",
+        "reactions": 47,
+        "comments": 16,
+        "tags": "devchallenge, wecoded, dei, career",
+        "url": "https://dev.to/francistrdev/check-up-with-each-other-2ogc"
+      },
+      {
+        "rank": 3,
+        "title": "AI Writes Code. You Own Quality.",
+        "author": "helderberto",
+        "reactions": 22,
+        "comments": 17,
+        "tags": "ai, software, development, programming",
+        "url": "https://dev.to/helderberto/ai-writes-code-you-own-quality-19g0"
+      },
+      {
+        "rank": 4,
+        "title": "Implementing a RAG system: Crawl",
+        "author": "glen_yu",
+        "reactions": 8,
+        "comments": 4,
+        "tags": "rag, genai, opensource, adk",
+        "url": "https://dev.to/gde/implementing-a-rag-system-crawl-5li"
+      },
+      {
+        "rank": 5,
+        "title": "AI Crash Course: Hallucinations",
+        "author": "kathryngrayson",
+        "reactions": 7,
+        "comments": 0,
+        "tags": "ai, beginners",
+        "url": "https://dev.to/kathryngrayson/ai-crash-course-hallucinations-1jeg"
+      },
+      {
+        "rank": 6,
+        "title": "Run Away From Work — Stopped Using React for the Game Loop",
+        "author": "nyaomaru",
+        "reactions": 2,
+        "comments": 0,
+        "tags": "showdev, gamedev, react, typescript",
+        "url": "https://dev.to/nyaomaru/run-away-from-work-stopped-using-react-for-the-game-loop-3e0k"
+      },
+      {
+        "rank": 7,
+        "title": "Free LocalStack Alternative — 20 AWS Services and counting",
+        "author": "nahuel990",
+        "reactions": 1,
+        "comments": 1,
+        "tags": "aws, docker, python, opensource",
+        "url": "https://dev.to/nahuel990/free-localstack-alternative-20-aws-services-and-counting-4ob1"
+      },
+      {
+        "rank": 8,
+        "title": "I Built a Clipboard Manager for Kali Linux — And Learned Way More Than Expected",
+        "author": "freerave",
+        "reactions": 1,
+        "comments": 0,
+        "tags": "python, linux, opensource, productivity",
+        "url": "https://dev.to/freerave/i-built-a-clipboard-manager-for-kali-linux-and-learned-way-more-than-expected-3hm9"
+      },
+      {
+        "rank": 9,
+        "title": "I scanned 100 AI-generated apps for security vulnerabilities. Here's what I found.",
+        "author": "tgoldi",
+        "reactions": 3,
+        "comments": 0,
+        "tags": "security, ai, programming, webdev",
+        "url": "https://dev.to/tgoldi/i-scanned-100-ai-generated-apps-for-security-vulnerabilities-heres-what-i-found-1l5o"
+      },
+      {
+        "rank": 10,
+        "title": "Vibe Coding Is Powerful, but Technical Skills Still Matter",
+        "author": "aichannode",
+        "reactions": 13,
+        "comments": 2,
+        "tags": "ai, cryptocurrency, blockchain, cursor",
+        "url": "https://dev.to/aichannode/vibe-coding-is-powerful-but-technical-skills-still-matter-4pio"
+      }
+    ],
+    "stackoverflow": [
+      {
+        "title": "Why is void | MyType&lt;void&gt; an acceptable return type under no-invalid-void-type?",
+        "score": 0,
+        "answers": 4,
+        "url": "https://stackoverflow.com/questions/79914314/why-is-void-mytypevoid-an-acceptable-return-type-under-no-invalid-void-type"
+      },
+      {
+        "title": "Python requests session not persisting cookies across requests",
+        "score": 1,
+        "answers": 1,
+        "url": "https://stackoverflow.com/questions/79914304/python-requests-session-not-persisting-cookies-across-requests"
+      },
+      {
+        "title": "How to get a less than and greater than range in an IFS Statement using AND",
+        "score": -3,
+        "answers": 2,
+        "url": "https://stackoverflow.com/questions/79914298/how-to-get-a-less-than-and-greater-than-range-in-an-ifs-statement-using-and"
+      },
+      {
+        "title": "How can I make GitHub Copilot Chat more aware of my database schema for accurate queries and migrations?",
+        "score": 0,
+        "answers": 0,
+        "url": "https://stackoverflow.com/questions/79914347/how-can-i-make-github-copilot-chat-more-aware-of-my-database-schema-for-accurate"
+      },
+      {
+        "title": "Artifactory OSS 7.133.15 - Frontend Javascript 404&#39;s on login page",
+        "score": -1,
+        "answers": 0,
+        "url": "https://stackoverflow.com/questions/79914299/artifactory-oss-7-133-15-frontend-javascript-404s-on-login-page"
+      },
+      {
+        "title": "Using XSLT3.0 in Saxon-JS 2, how can one configure the processor so that it accepts codepoints-to-string(8)?",
+        "score": 0,
+        "answers": 1,
+        "url": "https://stackoverflow.com/questions/79914327/using-xslt3-0-in-saxon-js-2-how-can-one-configure-the-processor-so-that-it-acce"
+      },
+      {
+        "title": "STM32 recieves unexpected extra bytes over the serial line",
+        "score": 0,
+        "answers": 0,
+        "url": "https://stackoverflow.com/questions/79914342/stm32-recieves-unexpected-extra-bytes-over-the-serial-line"
+      },
+      {
+        "title": "Fetching another container from nextjs middleware in docker",
+        "score": 0,
+        "answers": 0,
+        "url": "https://stackoverflow.com/questions/79914344/fetching-another-container-from-nextjs-middleware-in-docker"
+      },
+      {
+        "title": "Fectch Leads from facebook meta",
+        "score": -2,
+        "answers": 0,
+        "url": "https://stackoverflow.com/questions/79914322/fectch-leads-from-facebook-meta"
+      },
+      {
+        "title": "GridDB Rust client inserts data successfully but data is not visible when queried",
+        "score": 0,
+        "answers": 0,
+        "url": "https://stackoverflow.com/questions/79914325/griddb-rust-client-inserts-data-successfully-but-data-is-not-visible-when-querie"
+      }
+    ]
+  }
+}

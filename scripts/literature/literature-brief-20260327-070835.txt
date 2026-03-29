@@ -1,0 +1,126 @@
+📚 文献监控简报
+📅 2026-03-27 07:06:12
+🔑 关键词: functional coating automotive, automotive paint adhesion, car paint protection coating, 新能源汽车涂层材料, 汽车涂料新工艺, 3C coating material, electronic coating nano, smartphone coating technology, 防腐涂层 电子, functional coating, nano coating surface, smart coating self-healing, 功能涂料 新材料, surface treatment technology, corrosion protection coating, paint adhesion promoter, 表面处理 新工艺
+📊 数据来源: semantic_scholar, openalex, crossref, arxiv
+📄 共 185 篇文献
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🔗 OpenAlex (80篇)
+----------------------------------------
+  1. Structural engineering of polyurethane coatings for high per...
+     👥 D. K. Chattopadhyay, K. V. S. N. Raju
+     📅 2007 | ⭐ 1788次引用
+     🔗 https://doi.org/10.1016/j.progpolymsci.2006.05.003
+
+  2. Wet chemical functional coatings for automotive glasses and ...
+     👥 T. Morimoto, Y. Sanada, Hiroyuki Tomonag...
+     📅 2001 | ⭐ 46次引用
+     🔗 https://doi.org/10.1016/s0040-6090(01)01030-6
+
+  3. Low VOC carbamate functional coatings compositions for autom...
+     👥 Marvin L. Green
+     📅 2001 | ⭐ 17次引用
+     🔗 https://doi.org/10.1007/bf02698024
+
+  4. Recent Advances in Graphene-Based Nanocomposite Coatings for...
+     👥 R. Priyadharshini, Joseph Raj Xavier
+     📅 2025 | ⭐ 14次引用
+     🔗 https://doi.org/10.1007/s40735-025-01040-6
+
+  5. Recent Advances in Research on Carbon Nanotube–Polymer Compo...
+     👥 Michele T. Byrne, Yurii K. Gun’ko
+     📅 2009 | ⭐ 859次引用
+     🔗 https://doi.org/10.1002/adma.200901545
+
+
+🔗 Crossref (72篇)
+----------------------------------------
+  1. Fastener Coating Change for Efficient Functional Performance...
+     👥 Chandak, Katti, Raina
+     📅  | ⭐ 1次引用
+     🔗 https://doi.org/10.4271/2013-01-2899
+
+  2. Coating Technologies for Automotive Engine Applications
+     👥 Gangopadhyay
+     📅 2015 | ⭐ 7次引用
+     🔗 https://doi.org/10.1007/978-3-319-14771-0_4
+
+  3. Polymeric Engineering for Automotive Coating Applications
+     👥 Rink
+     📅 2008 | ⭐ 1次引用
+     🔗 https://doi.org/10.1002/9783527622375.ch7
+
+  4. EFFECT OF PLASMA TREATMENT ON WETTABILITY PROPERTIES OF THE ...
+     👥 ALTUNCU, KURTULDU
+     📅  | ⭐ 0次引用
+     🔗 https://doi.org/10.15659/ijaat.17.09.524
+
+  5. Automotive Catalysts
+     📅 2008 | ⭐ 0次引用
+     🔗 https://doi.org/10.1201/9781420011906-11
+
+
+🔗 arXiv (23篇)
+----------------------------------------
+  1. Hybrid Spatiotemporal Logic for Automotive Applications: Mod...
+     👥 Radu-Florin Tulcan, Rose Bohrer, Yoàv Mo...
+     📅 2026 | ⭐ 0次引用
+     🔗 http://arxiv.org/abs/2603.24443v1
+     📄 PDF可下载
+
+  2. Benchmarking Techniques for Decoded Quantum Interferometry
+     👥 Leon Bollmann, Maximilian Hess
+     📅 2026 | ⭐ 0次引用
+     🔗 http://arxiv.org/abs/2603.24441v1
+     📄 PDF可下载
+
+  3. Run, Tumble and Paint
+     👥 Emir Sezik, Callum Britton, Alex Touma
+     📅 2026 | ⭐ 0次引用
+     🔗 http://arxiv.org/abs/2603.24277v1
+     📄 PDF可下载
+
+  4. Anti-I2V: Safeguarding your photos from malicious image-to-v...
+     👥 Duc Vu, Anh Nguyen, Chi Tran
+     📅 2026 | ⭐ 0次引用
+     🔗 http://arxiv.org/abs/2603.24570v1
+     📄 PDF可下载
+
+  5. ClawKeeper: Comprehensive Safety Protection for OpenClaw Age...
+     👥 Songyang Liu, Chaozhuo Li, Chenxu Wang
+     📅 2026 | ⭐ 0次引用
+     🔗 http://arxiv.org/abs/2603.24414v1
+     📄 PDF可下载
+
+
+🔗 Semantic Scholar (10篇)
+----------------------------------------
+  1. Advances in Smart Coating Technologies for Wind Turbine Blad...
+     👥 M. Alsaadi, L. Mishnaevsky, Edmond F. To...
+     📅 2025 | ⭐ 0次引用
+     🔗 https://www.semanticscholar.org/paper/70219adf8bd2...
+
+  2. Chameleon skin-inspired smart coating with hierarchical self...
+     👥 Yixin Chen, Zhiqiang Gao, Qian Wang...
+     📅 2025 | ⭐ 0次引用
+     🔗 https://www.semanticscholar.org/paper/2ef407d8bbbf...
+
+  3. Active anticorrosion and self-healing coatings: a review wit...
+     👥 I. I. Udoh, Hongwei Shi, E. Daniel...
+     📅 2022 | ⭐ 188次引用
+     🔗 https://www.semanticscholar.org/paper/1aacce0dfcfa...
+
+  4. A smart coating for Mg alloys based on mPDA/h-BN hybrids: Ac...
+     👥 Renfei Xu, Xiangjun Li, Miaomiao Li...
+     📅 2026 | ⭐ 0次引用
+     🔗 https://www.semanticscholar.org/paper/8a3bafb590e9...
+
+  5. Conductive, Anti-Corrosion, Self-Healing Smart Coating Techn...
+     👥 J. Benavides-Guerrero, D. Banerjee, D. G...
+     📅 2022 | ⭐ 10次引用
+     🔗 https://www.semanticscholar.org/paper/4056f1780d10...
+     📄 PDF可下载
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📁 完整报告: scripts/literature/
