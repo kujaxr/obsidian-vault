@@ -1,0 +1,186 @@
+{
+  "timestamp": "2026-04-03 22:11:34",
+  "keywords": [
+    "in-mold coating automotive",
+    "ColorForm KraussMaffei",
+    "模内涂料 汽车外饰"
+  ],
+  "sources": [
+    "semantic_scholar",
+    "openalex",
+    "crossref",
+    "arxiv"
+  ],
+  "papers": [
+    {
+      "title": "Injection Mold Coating Technology",
+      "authors": "",
+      "year": "2024",
+      "citation_count": 0,
+      "abstract": "",
+      "url": "https://doi.org/10.3139/9781569902714.fm",
+      "pdf_url": null,
+      "source": "Crossref"
+    },
+    {
+      "title": "3 Fundamentals of Coating Technologies",
+      "authors": "",
+      "year": "2024",
+      "citation_count": 0,
+      "abstract": "",
+      "url": "https://doi.org/10.3139/9781569902714.003",
+      "pdf_url": null,
+      "source": "Crossref"
+    },
+    {
+      "title": "4 Measurement Technology for Coating Characterization",
+      "authors": "",
+      "year": "2024",
+      "citation_count": 0,
+      "abstract": "",
+      "url": "https://doi.org/10.3139/9781569902714.004",
+      "pdf_url": null,
+      "source": "Crossref"
+    },
+    {
+      "title": "New possibilities for the rapid customizing of mold surface structures – Lasered paint in the mold",
+      "authors": "Gehlen",
+      "year": "2016",
+      "citation_count": 0,
+      "abstract": "",
+      "url": "https://doi.org/10.51202/9783182443438-347",
+      "pdf_url": null,
+      "source": "Crossref"
+    },
+    {
+      "title": "APITestGenie: Generating Web API Tests from Requirements and API Specifications with LLMs",
+      "authors": "André Pereira, Bruno Lima, João Pascoal Faria",
+      "year": "2026",
+      "citation_count": 0,
+      "abstract": "Modern software systems rely heavily on Web APIs, yet creating meaningful and executable test scripts remains a largely manual, time-consuming, and error-prone task. In this paper, we present APITestGenie, a novel tool that leverages Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and prompt engineering to automatically generate API integration tests directly from business requirements and OpenAPI specifications. We evaluated APITestGenie on 10 real-world APIs, including 8 AP",
+      "url": "http://arxiv.org/abs/2604.02039v1",
+      "pdf_url": "http://arxiv.org/pdf/2604.02039v1.pdf",
+      "source": "arXiv"
+    },
+    {
+      "title": "Integrated Identification of Collaborative Robots for Robot Assisted 3D Printing Processes",
+      "authors": "Alessandro Dimauro, Davide Tebaldi, Fabio Pini",
+      "year": "2026",
+      "citation_count": 0,
+      "abstract": "In recent years, the integration of additive manufacturing (AM) and industrial robotics has opened new perspectives for the production of complex components, particularly in the automotive sector. Robot-assisted additive manufacturing processes overcome the dimensional and kinematic limitations of traditional Cartesian systems, enabling non-planar deposition and greater geometric flexibility. However, the increasing dynamic complexity of robotic manipulators introduces challenges related to prec",
+      "url": "http://arxiv.org/abs/2604.01991v1",
+      "pdf_url": "http://arxiv.org/pdf/2604.01991v1.pdf",
+      "source": "arXiv"
+    },
+    {
+      "title": "Learning Spatial Structure from Pre-Beamforming Per-Antenna Range-Doppler Radar Data via Visibility-Aware Cross-Modal Supervision",
+      "authors": "George Sebastian, Philipp Berthold, Bianca Forkel",
+      "year": "2026",
+      "citation_count": 0,
+      "abstract": "Automotive radar perception pipelines commonly construct angle-domain representations via beamforming before applying learning-based models. This work instead investigates a representational question: can meaningful spatial structure be learned directly from pre-beamforming per-antenna range-Doppler (RD) measurements? Experiments are conducted on a 6-TX x 8-RX (48 virtual antennas) commodity automotive radar employing an A/B chirp-sequence frequency-modulated continuous-wave (CS-FMCW) transmit s",
+      "url": "http://arxiv.org/abs/2604.01921v1",
+      "pdf_url": "http://arxiv.org/pdf/2604.01921v1.pdf",
+      "source": "arXiv"
+    },
+    {
+      "title": "Onex acquires KraussMaffei",
+      "authors": "",
+      "year": "2013",
+      "citation_count": 0,
+      "abstract": "",
+      "url": "https://doi.org/10.1016/s0034-3617(13)70018-3",
+      "pdf_url": null,
+      "source": "Crossref"
+    },
+    {
+      "title": "ChemChina acquires KraussMaffei",
+      "authors": "",
+      "year": "2016",
+      "citation_count": 0,
+      "abstract": "",
+      "url": "https://doi.org/10.1016/s1350-4789(16)30101-5",
+      "pdf_url": null,
+      "source": "Crossref"
+    },
+    {
+      "title": "KraussMaffei",
+      "authors": "",
+      "year": "2015",
+      "citation_count": 0,
+      "abstract": "",
+      "url": "https://doi.org/10.1016/j.repl.2015.06.082",
+      "pdf_url": null,
+      "source": "Crossref"
+    },
+    {
+      "title": "BMW orders KraussMaffei machines",
+      "authors": "",
+      "year": "2012",
+      "citation_count": 0,
+      "abstract": "",
+      "url": "https://doi.org/10.1016/s0034-3617(12)70023-1",
+      "pdf_url": null,
+      "source": "Crossref"
+    },
+    {
+      "title": "Onex completes KraussMaffei acquisition",
+      "authors": "",
+      "year": "2013",
+      "citation_count": 0,
+      "abstract": "",
+      "url": "https://doi.org/10.1016/s1359-6128(13)70034-x",
+      "pdf_url": null,
+      "source": "Crossref"
+    },
+    {
+      "title": "浅谈塑料材料在汽车内外饰中的运用",
+      "authors": "冶　涛",
+      "year": "2024",
+      "citation_count": 0,
+      "abstract": "",
+      "url": "https://doi.org/10.37155/2717-5316-0517-17",
+      "pdf_url": null,
+      "source": "Crossref"
+    },
+    {
+      "title": "浅谈智能汽车内外饰项目敏捷开发模式",
+      "authors": "李　跃, 梁　艳",
+      "year": "2024",
+      "citation_count": 0,
+      "abstract": "",
+      "url": "https://doi.org/10.37155/2717-5316-0517-24",
+      "pdf_url": null,
+      "source": "Crossref"
+    },
+    {
+      "title": "汽车内外饰设计质量控制",
+      "authors": "袁锣旗",
+      "year": "2024",
+      "citation_count": 0,
+      "abstract": "",
+      "url": "https://doi.org/10.37155/2717-5197-0601-34",
+      "pdf_url": null,
+      "source": "Crossref"
+    },
+    {
+      "title": "汽车内饰的新材料和新技术研究",
+      "authors": "吴云峰, 陈　咪, 杨　芳",
+      "year": "2025",
+      "citation_count": 0,
+      "abstract": "",
+      "url": "https://doi.org/10.37155/2717-5316-0609-32",
+      "pdf_url": null,
+      "source": "Crossref"
+    },
+    {
+      "title": "中国汽车内饰织物面料发展趋势",
+      "authors": "张彦峰, 路宏伟",
+      "year": "2025",
+      "citation_count": 0,
+      "abstract": "",
+      "url": "https://doi.org/10.37155/2717-5189-0701-40",
+      "pdf_url": null,
+      "source": "Crossref"
+    }
+  ]
+}

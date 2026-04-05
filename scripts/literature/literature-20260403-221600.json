@@ -1,0 +1,326 @@
+{
+  "timestamp": "2026-04-03 22:14:22",
+  "keywords": [
+    "光致变色涂料",
+    "photochromic coating",
+    "photochromic paint automotive"
+  ],
+  "sources": [
+    "semantic_scholar",
+    "openalex",
+    "crossref",
+    "arxiv"
+  ],
+  "papers": [
+    {
+      "title": "Al/Cr 2 O 3 复合粉体的制备及红外反射特性研究",
+      "authors": "Yuan Le, Weng Xiao-long, Hu Lu...",
+      "year": 2013,
+      "citation_count": 4,
+      "abstract": "采用液相沉淀法, 制备了在片状铝粉表面包覆Cr 2 O 3 的复合粉体颜料, 利用XRD、SEM、UV/VIS/NIR分光光度计、FTIR红外光谱仪等方法对颜料相结构、形貌、光谱及红外反射特性等进行了测试表征。结果表明, Cr 2 O 3 包覆层对光谱反射特性的影响随波长变化而异, 波长越短, 包覆前后反射率的变化越大。当Cr 3+ :Al摩尔比为0.2:1.0时, Al/Cr 2 O 3 复合颜料在可见光波段的反射率下降接近50%, 颜色明度参数 L *降低15, 而8~14 μm波段红外反射率下降不到10%。分析表明, 包覆层对不同波长辐射的吸收系数以及表面粗糙度的差异导致了上述结果。该复",
+      "url": null,
+      "pdf_url": null,
+      "source": "OpenAlex"
+    },
+    {
+      "title": "刺激—响应涂层及其在绝缘缺陷自诊断中的应用",
+      "authors": "朱明晓, 李孟陶, 郭小渤...",
+      "year": 2023,
+      "citation_count": 0,
+      "abstract": "<span id=\"ChDivSummary\" name=\"ChDivSummary\" class=\"abstract-text\">固体绝缘内部及表面缺陷是引起电力设备故障的主要原因，但现有检测方法流程复杂且易影响电力设备安全运行。受自然界生物启发，将刺激—响应涂层引入绝缘系统，可通过发光与色彩的形式直观显示绝缘缺陷。文中对刺激—响应材料及其在绝缘缺陷自诊断中的应用进行综述，首先分析发光及变色等刺激-响应材料的类型及工作原理，发光材料包括电致发光、聚集诱导发光及荧光分子探针，变色材料考虑色素色（电致/热致变色）及结构色（光子晶体和胆甾相液晶）响应材料，并总结了刺激—响应材料在绝缘缺陷自诊断中的",
+      "url": null,
+      "pdf_url": null,
+      "source": "OpenAlex"
+    },
+    {
+      "title": "复合包覆SrAl2O4∶Eu2+,Dy3+发光粉的生产工艺",
+      "authors": "喻胜飞, 罗武生",
+      "year": 2013,
+      "citation_count": 0,
+      "abstract": "以马来酸酐(MA)和吲哚啉螺苯并吡喃(SP)为原料,在SrAl2O4∶Eu2+,Dy3+(SAO-ED)发光粉的表面进行复合包覆制备MA-SP-SAO-ED复合发光粉,探讨MA与SP的质量比、MA和SP的加入顺序对复合发光粉性能的影响,并用扫描电镜表征复合发光粉的表面涂层.结果表明,当MA和SP同时加入SAO-ED二氯甲烷溶液中,总加入量为SAO-ED发光粉质量的10％,且MA与SP的质量比为6∶1时,复合发光粉具有较好的耐水、光致发光和光致变色等性能；在SAO-ED发光粉表面包覆了均匀致密涂层.",
+      "url": null,
+      "pdf_url": null,
+      "source": "OpenAlex"
+    },
+    {
+      "title": "吲哚啉螺苯并吡喃表面包覆SrAl2O4：（Eu2＋,Dy3＋）发光粉",
+      "authors": "喻胜飞",
+      "year": 2010,
+      "citation_count": 0,
+      "abstract": "以吲哚啉螺苯并吡喃（indoline spiropyrans,SP）和SrAl2O4：（Eu2＋,Dy3＋）（SAO-ED）发光粉为原料,采用界面配位键合方法在SAO-ED发光粉的表面包覆SP制备了SP/SAO-ED复合发光粉。通过X射线衍射、X射线光电子能谱、Fourier红外光谱表征了SP/SAO-ED复合发光粉的晶体结构和表面涂层组成;用紫外光谱、激发和发射光谱分析了该复合发光粉的光致发光性能和光致变色性能。结果表明：SP/SAO-ED复合发光粉由SAO-ED表面的金属离子与SP杂环上的N原子配位结合而成;该复合发光粉不但具有SAO-ED发光粉的晶体结构和光致发光性能,还具有SP的光致变",
+      "url": null,
+      "pdf_url": null,
+      "source": "OpenAlex"
+    },
+    {
+      "title": "二氧化钒-荧光增白剂-有机聚合物三层多功能复合薄膜",
+      "authors": "高迎, 秦成远, 聂永...",
+      "year": 2021,
+      "citation_count": 0,
+      "abstract": "二氧化钒(VO2)是一种典型的热致变色材料，用于智能窗可有效降低建筑能耗。然而，二氧化钒智能玻璃的颜色和稳定性问题限制了其大规模应用。本文报道一种VO2基三层荧光复合膜，包括VO2@SiO2热致变色层、荧光增白剂分子层和有机聚合物层。VO2@SiO2层可根据外界温度变化，调控太阳光的摄入量，起到冬暖夏凉的作用，其核壳结构有利于提高VO2的稳定性；荧光分子层在太阳光照射下，吸收紫外光，发射蓝色荧光，从而改善二氧化钒涂层固有的棕黄色；有机聚合物层作为最上层，能有效保护下层的VO2@SiO2层和中间的荧光分子层，增加复合薄膜的稳定性。与纯VO2膜相比，这种复合膜不但保持了较高的可见光透过率和太阳光调",
+      "url": null,
+      "pdf_url": null,
+      "source": "OpenAlex"
+    },
+    {
+      "title": "新型光致变色材料",
+      "authors": "N/A",
+      "year": "2009",
+      "citation_count": 1,
+      "abstract": "",
+      "url": "https://doi.org/10.3788/lop20094606.0010b",
+      "pdf_url": null,
+      "source": "Crossref"
+    },
+    {
+      "title": "A Potential Surface Protective Material of Cultural Relics: Photochromic Material",
+      "authors": "刘",
+      "year": "2014",
+      "citation_count": 0,
+      "abstract": "",
+      "url": "https://doi.org/10.12677/amc.2014.23006",
+      "pdf_url": null,
+      "source": "Crossref"
+    },
+    {
+      "title": "Research and Application Progress of Photochromic Materials",
+      "authors": "孙",
+      "year": "2018",
+      "citation_count": 0,
+      "abstract": "",
+      "url": "https://doi.org/10.12677/japc.2018.73017",
+      "pdf_url": null,
+      "source": "Crossref"
+    },
+    {
+      "title": "All Optical Visual Perceptual Learning Based on Tungsten Trioxide Photochromic Materials",
+      "authors": "王",
+      "year": "2023",
+      "citation_count": 0,
+      "abstract": "",
+      "url": "https://doi.org/10.12677/nat.2023.132007",
+      "pdf_url": null,
+      "source": "Crossref"
+    },
+    {
+      "title": "一个新颖的光致发光和光致变色铕配合物",
+      "authors": "郑, 吕, 金...",
+      "year": "2001",
+      "citation_count": 0,
+      "abstract": "",
+      "url": "https://doi.org/10.1360/csb2001-46-22-1861",
+      "pdf_url": null,
+      "source": "Crossref"
+    },
+    {
+      "title": "Sol-gel based photochromic coating for solar responsive smart window",
+      "authors": "Linda Wu, Q. Zhao, Hui Huang...",
+      "year": 2016,
+      "citation_count": 102,
+      "abstract": "",
+      "url": "https://doi.org/10.1016/j.surfcoat.2016.10.074",
+      "pdf_url": null,
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Development of fast switching photochromic coatings on transparent plastics and glass",
+      "authors": "Martin Mennig, K. Fries, M Lindenstruth...",
+      "year": 1999,
+      "citation_count": 48,
+      "abstract": "",
+      "url": "https://doi.org/10.1016/s0040-6090(99)00341-7",
+      "pdf_url": null,
+      "source": "OpenAlex"
+    },
+    {
+      "title": "A sol–gel derived AgCl photochromic coating on glass for SERS chemical sensor application",
+      "authors": "Mürvet Volkan, David L. Stokes, Tuan Vo‐Dinh",
+      "year": 2004,
+      "citation_count": 41,
+      "abstract": "",
+      "url": "https://doi.org/10.1016/j.snb.2004.09.019",
+      "pdf_url": null,
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Photochromic coatings including silver halide microcrystals via sol–gel process",
+      "authors": "Hiroyuki Tomonaga, Takeshi Morimoto",
+      "year": 2001,
+      "citation_count": 17,
+      "abstract": "",
+      "url": "https://doi.org/10.1016/s0040-6090(01)01057-4",
+      "pdf_url": null,
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Effect of heat treatment and additives on the photochromic and mechanical properties of sol-gel derived photochromic coatings containing spirooxazine",
+      "authors": "Lianping Hou, B. Hoffmann, Helmut K. Schmidt...",
+      "year": 1997,
+      "citation_count": 16,
+      "abstract": "",
+      "url": "https://doi.org/10.1007/bf02436961",
+      "pdf_url": null,
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Functionalization of Cellulose Paper by Coating  Nano Metal-Organic Frameworks for Use as Photochromic Material",
+      "authors": "Qiang Yang, Wei Gong, Xiaowei Cui...",
+      "year": "2021",
+      "citation_count": 0,
+      "abstract": "",
+      "url": "https://doi.org/10.52568/000548/jcsp/43.01.2021",
+      "pdf_url": null,
+      "source": "Crossref"
+    },
+    {
+      "title": "Effect of Coating Process of Photochromic and Thermochromic Composite Microcapsules on Coating Properties for Basswood",
+      "authors": "Pan, Yan, Zhao",
+      "year": "",
+      "citation_count": 6,
+      "abstract": "",
+      "url": "https://doi.org/10.3390/coatings12091246",
+      "pdf_url": null,
+      "source": "Crossref"
+    },
+    {
+      "title": "Photochromic coating by vacuum deposition",
+      "authors": "Mizuhashi, Furuuchi",
+      "year": "1975",
+      "citation_count": 10,
+      "abstract": "",
+      "url": "https://doi.org/10.1016/0040-6090(75)90090-5",
+      "pdf_url": null,
+      "source": "Crossref"
+    },
+    {
+      "title": "Eco-production of silica from sugarcane bagasse ash for use as a photochromic pigment filler",
+      "authors": "Prinya Chindaprasirt, Ubolluk Rattanasak",
+      "year": 2020,
+      "citation_count": 114,
+      "abstract": "Sugarcane bagasse is a significant renewable energy source for the sugar and bioethanol industries. Bagasse ash is the waste from the combustion process and is mostly disposed of as landfill. Only a small quantity of bagasse ash is utilized as pozzolan in concrete, and a considerable quantity is lef",
+      "url": "https://doi.org/10.1038/s41598-020-66885-y",
+      "pdf_url": null,
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Flexible Electronics: The Next Ubiquitous Platform",
+      "authors": "Arokia Nathan, Arman Ahnood, Matthew T. Cole...",
+      "year": 2012,
+      "citation_count": 978,
+      "abstract": "Thin-film electronics in its myriad forms has underpinned much of the technological innovation in the fields of displays, sensors, and energy conversion over the past four decades. This technology also forms the basis of flexible electronics. Here we review the current status of flexible electronics",
+      "url": "https://doi.org/10.1109/jproc.2012.2190168",
+      "pdf_url": null,
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Sprayable User Interfaces: Prototyping Large-Scale Interactive Surfaces with Sensors and Displays",
+      "authors": "Michael Wessely, Ticha Sethapakdi, Carlos Castillo...",
+      "year": 2020,
+      "citation_count": 70,
+      "abstract": "We present Sprayable User Interfaces: room-sized interactive surfaces that contain sensor and display elements created by airbrushing functional inks. Since airbrushing is inherently mobile, designers can create large-scale user interfaces on complex 3D geometries where existing stationary fabricati",
+      "url": "https://doi.org/10.1145/3313831.3376249",
+      "pdf_url": null,
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Photo-Chromeleon",
+      "authors": "Yuhua Jin, Isabel P. S. Qamar, Michael Wessely...",
+      "year": 2019,
+      "citation_count": 46,
+      "abstract": "In this paper, we present a method to create re-programmable multi-color textures that are made from a single material only. The key idea builds on the use of photochromic inks that can switch their appearance from transparent to colored when exposed to light of a certain wavelength. By mixing cyan,",
+      "url": "https://doi.org/10.1145/3332165.3347905",
+      "pdf_url": null,
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Imparting cotton textiles glow-in-the-dark property along with other functional properties: photochromism, flame-retardant, water-repellency, and antimicrobial activity",
+      "authors": "Esraa Ahmed, Dalia Maamoun, Meram S. Abdelrahman...",
+      "year": 2023,
+      "citation_count": 58,
+      "abstract": "Abstract Screen-printing and spray-coating methods were used to produce photoluminescent, water-repellent, and antimicrobial films on textile fibers. The cotton fabrics were firstly finished with a flame-resistant agent. There are a number of functional agents that have been applied during the texti",
+      "url": "https://doi.org/10.1007/s10570-023-05125-8",
+      "pdf_url": null,
+      "source": "OpenAlex"
+    },
+    {
+      "title": "Automotive Paint Spray Characterization and Visualization",
+      "authors": "Akafuah",
+      "year": "2013",
+      "citation_count": 12,
+      "abstract": "",
+      "url": "https://doi.org/10.1007/978-94-007-5095-1_5",
+      "pdf_url": null,
+      "source": "Crossref"
+    },
+    {
+      "title": "UTILISATION OF PAINT SLUDGE FROM AUTOMOTIVE INDUSTRIES INTO VALUEABLE PRODUCTS",
+      "authors": "",
+      "year": "",
+      "citation_count": 7,
+      "abstract": "",
+      "url": "https://doi.org/10.23883/ijrter.2017.3257.rpnmg",
+      "pdf_url": null,
+      "source": "Crossref"
+    },
+    {
+      "title": "Automotive paints",
+      "authors": "Ansdell",
+      "year": "1999",
+      "citation_count": 7,
+      "abstract": "",
+      "url": "https://doi.org/10.1533/9781855737006.411",
+      "pdf_url": null,
+      "source": "Crossref"
+    },
+    {
+      "title": "CLASSIFICATION SYSTEM FOR AUTOMOTIVE TOOLING, MACHINERY AND EQUIPMENT LOW VOC WATERBORNE PAINT SYSTEMS",
+      "authors": "",
+      "year": "",
+      "citation_count": 0,
+      "abstract": "",
+      "url": "https://doi.org/10.4271/uscar9",
+      "pdf_url": null,
+      "source": "Crossref"
+    },
+    {
+      "title": "Automotive Paint Application",
+      "authors": "Moore",
+      "year": "2017",
+      "citation_count": 3,
+      "abstract": "",
+      "url": "https://doi.org/10.1007/978-3-319-51627-1_21",
+      "pdf_url": null,
+      "source": "Crossref"
+    },
+    {
+      "title": "APITestGenie: Generating Web API Tests from Requirements and API Specifications with LLMs",
+      "authors": "André Pereira, Bruno Lima, João Pascoal Faria",
+      "year": "2026",
+      "citation_count": 0,
+      "abstract": "Modern software systems rely heavily on Web APIs, yet creating meaningful and executable test scripts remains a largely manual, time-consuming, and error-prone task. In this paper, we present APITestGenie, a novel tool that leverages Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and prompt engineering to automatically generate API integration tests directly from business requirements and OpenAPI specifications. We evaluated APITestGenie on 10 real-world APIs, including 8 AP",
+      "url": "http://arxiv.org/abs/2604.02039v1",
+      "pdf_url": "http://arxiv.org/pdf/2604.02039v1.pdf",
+      "source": "arXiv"
+    },
+    {
+      "title": "Integrated Identification of Collaborative Robots for Robot Assisted 3D Printing Processes",
+      "authors": "Alessandro Dimauro, Davide Tebaldi, Fabio Pini",
+      "year": "2026",
+      "citation_count": 0,
+      "abstract": "In recent years, the integration of additive manufacturing (AM) and industrial robotics has opened new perspectives for the production of complex components, particularly in the automotive sector. Robot-assisted additive manufacturing processes overcome the dimensional and kinematic limitations of traditional Cartesian systems, enabling non-planar deposition and greater geometric flexibility. However, the increasing dynamic complexity of robotic manipulators introduces challenges related to prec",
+      "url": "http://arxiv.org/abs/2604.01991v1",
+      "pdf_url": "http://arxiv.org/pdf/2604.01991v1.pdf",
+      "source": "arXiv"
+    },
+    {
+      "title": "Learning Spatial Structure from Pre-Beamforming Per-Antenna Range-Doppler Radar Data via Visibility-Aware Cross-Modal Supervision",
+      "authors": "George Sebastian, Philipp Berthold, Bianca Forkel",
+      "year": "2026",
+      "citation_count": 0,
+      "abstract": "Automotive radar perception pipelines commonly construct angle-domain representations via beamforming before applying learning-based models. This work instead investigates a representational question: can meaningful spatial structure be learned directly from pre-beamforming per-antenna range-Doppler (RD) measurements? Experiments are conducted on a 6-TX x 8-RX (48 virtual antennas) commodity automotive radar employing an A/B chirp-sequence frequency-modulated continuous-wave (CS-FMCW) transmit s",
+      "url": "http://arxiv.org/abs/2604.01921v1",
+      "pdf_url": "http://arxiv.org/pdf/2604.01921v1.pdf",
+      "source": "arXiv"
+    }
+  ]
+}

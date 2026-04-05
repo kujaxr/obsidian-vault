@@ -4,6 +4,14 @@
     "taobao-native": {
       "version": "1.0.32",
       "installedAt": 1774686616360
+    },
+    "minimax-multimodal": {
+      "version": "1.0.1",
+      "installedAt": 1775131419625
+    },
+    "chrome-cdp": {
+      "version": "1.0.0",
+      "installedAt": 1775172844660
     }
   }
 }

@@ -174,7 +174,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -186,6 +185,11 @@
   },
   "active": "242a89749ed94a54",
   "lastOpenFiles": [
+    "scripts/reports/simple-sentiment-20260330-140000.json",
+    "memory/main.sqlite.tmp-9f70d2d7-5a88-4aeb-aa01-348aefd0ed46-journal",
+    "memory/main.sqlite.tmp-9f70d2d7-5a88-4aeb-aa01-348aefd0ed46",
+    "MEMORY.md",
+    "memory/2026-03-30.md",
     "knowledge_material/上汽资料/通用上汽外饰涂装标准对比.md",
     "knowledge_material/上汽资料/镀锡镀银厚度供应商整理.md",
     "knowledge_material/上汽资料/蚀刻过程简述.md",
@@ -209,9 +213,6 @@
     "knowledge_material/上汽资料/INS外观评价标准.md",
     "knowledge_material/上汽资料/CQI-11 电镀件工艺审核完全版Plating System Assessment_Work Sheets--20120627.md",
     "knowledge_material/上汽资料/BOX-外饰涂装工艺 180419（提交版）.md",
-    "knowledge_material/S report/SCL-S-24-0100M-AP31M4-警告灯开关-徐睿.md",
-    "knowledge_material/S report/SCL-S-23-0177M-AP31MAJOR-PRND面板-徐睿.md",
-    "knowledge_material/S report/SCL-S-22-0085M-AP31MCE-出风口饰圈-徐睿.md",
     "knowledge_material/知识积累",
     "knowledge_material/标准",
     "knowledge_material/工作手册",
@@ -219,8 +220,6 @@
     "knowledge_material/专家小组BOX",
     "knowledge_material/上汽资料",
     "knowledge_material/WORK",
-    "knowledge_material/S report",
-    "knowledge_material/2026已归档",
-    "knowledge_material/2026"
+    "knowledge_material/S report"
   ]
 }

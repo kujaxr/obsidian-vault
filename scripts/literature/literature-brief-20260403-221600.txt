@@ -1,0 +1,81 @@
+📚 文献监控简报
+📅 2026-04-03 22:14:22
+🔑 关键词: 光致变色涂料, photochromic coating, photochromic paint automotive
+📊 数据来源: semantic_scholar, openalex, crossref, arxiv
+📄 共 31 篇文献
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🔗 OpenAlex (15篇)
+----------------------------------------
+  1. Al/Cr 2 O 3 复合粉体的制备及红外反射特性研究
+     👥 Yuan Le, Weng Xiao-long, Hu Lu...
+     📅 2013 | ⭐ 4次引用
+
+  2. 刺激—响应涂层及其在绝缘缺陷自诊断中的应用
+     👥 朱明晓, 李孟陶, 郭小渤...
+     📅 2023 | ⭐ 0次引用
+
+  3. 复合包覆SrAl2O4∶Eu2+,Dy3+发光粉的生产工艺
+     👥 喻胜飞, 罗武生
+     📅 2013 | ⭐ 0次引用
+
+  4. 吲哚啉螺苯并吡喃表面包覆SrAl2O4：（Eu2＋,Dy3＋）发光粉
+     👥 喻胜飞
+     📅 2010 | ⭐ 0次引用
+
+  5. 二氧化钒-荧光增白剂-有机聚合物三层多功能复合薄膜
+     👥 高迎, 秦成远, 聂永...
+     📅 2021 | ⭐ 0次引用
+
+
+🔗 Crossref (13篇)
+----------------------------------------
+  1. 新型光致变色材料
+     👥 N/A
+     📅 2009 | ⭐ 1次引用
+     🔗 https://doi.org/10.3788/lop20094606.0010b
+
+  2. A Potential Surface Protective Material of Cultural Relics: ...
+     👥 刘
+     📅 2014 | ⭐ 0次引用
+     🔗 https://doi.org/10.12677/amc.2014.23006
+
+  3. Research and Application Progress of Photochromic Materials
+     👥 孙
+     📅 2018 | ⭐ 0次引用
+     🔗 https://doi.org/10.12677/japc.2018.73017
+
+  4. All Optical Visual Perceptual Learning Based on Tungsten Tri...
+     👥 王
+     📅 2023 | ⭐ 0次引用
+     🔗 https://doi.org/10.12677/nat.2023.132007
+
+  5. 一个新颖的光致发光和光致变色铕配合物
+     👥 郑, 吕, 金...
+     📅 2001 | ⭐ 0次引用
+     🔗 https://doi.org/10.1360/csb2001-46-22-1861
+
+
+🔗 arXiv (3篇)
+----------------------------------------
+  1. APITestGenie: Generating Web API Tests from Requirements and...
+     👥 André Pereira, Bruno Lima, João Pascoal ...
+     📅 2026 | ⭐ 0次引用
+     🔗 http://arxiv.org/abs/2604.02039v1
+     📄 PDF可下载
+
+  2. Integrated Identification of Collaborative Robots for Robot ...
+     👥 Alessandro Dimauro, Davide Tebaldi, Fabi...
+     📅 2026 | ⭐ 0次引用
+     🔗 http://arxiv.org/abs/2604.01991v1
+     📄 PDF可下载
+
+  3. Learning Spatial Structure from Pre-Beamforming Per-Antenna ...
+     👥 George Sebastian, Philipp Berthold, Bian...
+     📅 2026 | ⭐ 0次引用
+     🔗 http://arxiv.org/abs/2604.01921v1
+     📄 PDF可下载
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📁 完整报告: scripts/literature/

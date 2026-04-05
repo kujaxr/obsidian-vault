@@ -1,0 +1,18 @@
+[
+  {
+    "pattern": "www.covestro.com/api/favourites/getstatus?pageid={}&query={}",
+    "method": "GET",
+    "url": "https://www.covestro.com/api/favourites/getstatus?pageid=%7B55B08FE1-F987-4371-BD77-CEDCEB795373%7D&query=",
+    "status": null,
+    "contentType": "",
+    "score": 6,
+    "queryParams": [
+      "pageid",
+      "query"
+    ],
+    "itemPath": null,
+    "itemCount": 0,
+    "detectedFields": {},
+    "authIndicators": []
+  }
+]

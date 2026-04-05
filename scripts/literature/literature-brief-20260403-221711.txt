@@ -1,0 +1,94 @@
+📚 文献监控简报
+📅 2026-04-03 22:15:11
+🔑 关键词: photochromic coating, 光致变色涂料, photochromic smart coating
+📊 数据来源: semantic_scholar, openalex, crossref, arxiv
+📄 共 26 篇文献
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🔗 OpenAlex (12篇)
+----------------------------------------
+  1. Sol-gel based photochromic coating for solar responsive smar...
+     👥 Linda Wu, Q. Zhao, Hui Huang...
+     📅 2016 | ⭐ 102次引用
+     🔗 https://doi.org/10.1016/j.surfcoat.2016.10.074
+
+  2. Development of fast switching photochromic coatings on trans...
+     👥 Martin Mennig, K. Fries, M Lindenstruth....
+     📅 1999 | ⭐ 48次引用
+     🔗 https://doi.org/10.1016/s0040-6090(99)00341-7
+
+  3. A sol–gel derived AgCl photochromic coating on glass for SER...
+     👥 Mürvet Volkan, David L. Stokes, Tuan Vo‐...
+     📅 2004 | ⭐ 41次引用
+     🔗 https://doi.org/10.1016/j.snb.2004.09.019
+
+  4. Photochromic coatings including silver halide microcrystals ...
+     👥 Hiroyuki Tomonaga, Takeshi Morimoto
+     📅 2001 | ⭐ 17次引用
+     🔗 https://doi.org/10.1016/s0040-6090(01)01057-4
+
+  5. Effect of heat treatment and additives on the photochromic a...
+     👥 Lianping Hou, B. Hoffmann, Helmut K. Sch...
+     📅 1997 | ⭐ 16次引用
+     🔗 https://doi.org/10.1007/bf02436961
+
+
+🔗 Crossref (9篇)
+----------------------------------------
+  1. Functionalization of Cellulose Paper by Coating  Nano Metal-...
+     👥 Qiang Yang, Wei Gong, Xiaowei Cui...
+     📅 2021 | ⭐ 0次引用
+     🔗 https://doi.org/10.52568/000548/jcsp/43.01.2021
+
+  2. Effect of Coating Process of Photochromic and Thermochromic ...
+     👥 Pan, Yan, Zhao
+     📅  | ⭐ 6次引用
+     🔗 https://doi.org/10.3390/coatings12091246
+
+  3. Photochromic coating by vacuum deposition
+     👥 Mizuhashi, Furuuchi
+     📅 1975 | ⭐ 10次引用
+     🔗 https://doi.org/10.1016/0040-6090(75)90090-5
+
+  4. 新型光致变色材料
+     👥 N/A
+     📅 2009 | ⭐ 1次引用
+     🔗 https://doi.org/10.3788/lop20094606.0010b
+
+  5. A Potential Surface Protective Material of Cultural Relics: ...
+     👥 刘
+     📅 2014 | ⭐ 0次引用
+     🔗 https://doi.org/10.12677/amc.2014.23006
+
+
+🔗 Semantic Scholar (5篇)
+----------------------------------------
+  1. 纳米纤维素/聚3,4-乙撑二氧噻吩复合薄膜的制备及电致变色性能
+     👥 张思航, 何永锋, 付润芳...
+     📅 2017 | ⭐ 0次引用
+     🔗 https://www.semanticscholar.org/paper/7bca9c09eee8...
+
+  2. 多孔氮化硼掺杂聚吡咯-2,3,3-三甲基吲哚固相微萃取涂层的制备及多环芳烃的检测
+     👥 Jie Du, Peng Sun, Meng-Lu Zhang...
+     📅 2023 | ⭐ 0次引用
+     🔗 https://www.semanticscholar.org/paper/7e82bd28a8c5...
+     📄 PDF可下载
+
+  3. 涂料行业职业基本知识与基本技能（十）——涂料制备工艺过程及质量控制点
+     👥 沈浩
+     📅 2015 | ⭐ 0次引用
+     🔗 https://www.semanticscholar.org/paper/7c60b6eb6e7c...
+
+  4. 复合包覆SrAl2O4∶Eu2+,Dy3+发光粉的生产工艺
+     👥 喻胜飞, 罗武生
+     📅 2013 | ⭐ 0次引用
+     🔗 https://www.semanticscholar.org/paper/736b15c60b76...
+
+  5. Al/Cr 2 O 3 复合粉体的制备及红外反射特性研究
+     👥 Yuan Le, Weng Xiaolong, Lu Hu...
+     📅 2013 | ⭐ 2次引用
+     🔗 https://www.semanticscholar.org/paper/f95bbde05773...
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📁 完整报告: scripts/literature/
