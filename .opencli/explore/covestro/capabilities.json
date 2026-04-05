@@ -1,0 +1,27 @@
+[
+  {
+    "name": "getstatus",
+    "description": "covestro getstatus",
+    "strategy": "cookie",
+    "confidence": 0.3,
+    "endpoint": "www.covestro.com/api/favourites/getstatus?pageid={}&query={}",
+    "itemPath": null,
+    "recommendedColumns": [
+      "title",
+      "url"
+    ],
+    "recommendedArgs": [
+      {
+        "name": "keyword",
+        "type": "str",
+        "required": true
+      },
+      {
+        "name": "limit",
+        "type": "int",
+        "required": false,
+        "default": 20
+      }
+    ]
+  }
+]

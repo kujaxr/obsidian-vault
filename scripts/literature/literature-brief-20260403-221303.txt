@@ -1,0 +1,54 @@
+📚 文献监控简报
+📅 2026-04-03 22:11:34
+🔑 关键词: in-mold coating automotive, ColorForm KraussMaffei, 模内涂料 汽车外饰
+📊 数据来源: semantic_scholar, openalex, crossref, arxiv
+📄 共 17 篇文献
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🔗 Crossref (14篇)
+----------------------------------------
+  1. Injection Mold Coating Technology
+     📅 2024 | ⭐ 0次引用
+     🔗 https://doi.org/10.3139/9781569902714.fm
+
+  2. 3 Fundamentals of Coating Technologies
+     📅 2024 | ⭐ 0次引用
+     🔗 https://doi.org/10.3139/9781569902714.003
+
+  3. 4 Measurement Technology for Coating Characterization
+     📅 2024 | ⭐ 0次引用
+     🔗 https://doi.org/10.3139/9781569902714.004
+
+  4. New possibilities for the rapid customizing of mold surface ...
+     👥 Gehlen
+     📅 2016 | ⭐ 0次引用
+     🔗 https://doi.org/10.51202/9783182443438-347
+
+  5. Onex acquires KraussMaffei
+     📅 2013 | ⭐ 0次引用
+     🔗 https://doi.org/10.1016/s0034-3617(13)70018-3
+
+
+🔗 arXiv (3篇)
+----------------------------------------
+  1. APITestGenie: Generating Web API Tests from Requirements and...
+     👥 André Pereira, Bruno Lima, João Pascoal ...
+     📅 2026 | ⭐ 0次引用
+     🔗 http://arxiv.org/abs/2604.02039v1
+     📄 PDF可下载
+
+  2. Integrated Identification of Collaborative Robots for Robot ...
+     👥 Alessandro Dimauro, Davide Tebaldi, Fabi...
+     📅 2026 | ⭐ 0次引用
+     🔗 http://arxiv.org/abs/2604.01991v1
+     📄 PDF可下载
+
+  3. Learning Spatial Structure from Pre-Beamforming Per-Antenna ...
+     👥 George Sebastian, Philipp Berthold, Bian...
+     📅 2026 | ⭐ 0次引用
+     🔗 http://arxiv.org/abs/2604.01921v1
+     📄 PDF可下载
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📁 完整报告: scripts/literature/

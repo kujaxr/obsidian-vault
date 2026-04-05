@@ -8,6 +8,14 @@ car paint protection coating
 新能源汽车涂层材料
 汽车涂料新工艺
 
+# IMC 模内涂层
+in-mold coating automotive
+IMC in-mold coating exterior
+ColorForm KraussMaffei
+clearmelt Engel
+模内涂料 汽车外饰
+in-mold coating polyurethane
+
 # 3C电子相关
 3C coating material
 electronic coating nano

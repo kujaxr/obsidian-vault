@@ -1047,3 +1047,767 @@
 2026-03-29 06:17:06 - 💾 报告已保存: /Users/rayxu/.openclaw/workspace/scripts/literature/literature-20260329-061706.json
 2026-03-29 06:17:06 - ============================================================
 2026-03-29 06:17:06 - 💾 简报已保存: /Users/rayxu/.openclaw/workspace/scripts/literature/literature-brief-20260329-061706.txt
+2026-03-31 06:10:01 - ============================================================
+2026-03-31 06:10:01 - 文献监控开始
+2026-03-31 06:10:01 - 
+📌 搜索关键词: functional coating automotive
+2026-03-31 06:10:01 - 🔍 Semantic Scholar: functional coating automotive
+2026-03-31 06:10:01 -    ❌ HTTP 429
+2026-03-31 06:10:03 - 🔍 OpenAlex: functional coating automotive
+2026-03-31 06:10:05 -    ✅ 找到 5 条结果
+2026-03-31 06:10:06 - 🔍 Crossref: functional coating automotive
+2026-03-31 06:10:07 -    ✅ 找到 5 条结果
+2026-03-31 06:10:08 - 🔍 arXiv: functional coating automotive
+2026-03-31 06:10:34 -    ✅ 找到 3 条结果
+2026-03-31 06:10:35 - 
+📌 搜索关键词: automotive paint adhesion
+2026-03-31 06:10:35 - 🔍 Semantic Scholar: automotive paint adhesion
+2026-03-31 06:10:36 -    ❌ HTTP 429
+2026-03-31 06:10:37 - 🔍 OpenAlex: automotive paint adhesion
+2026-03-31 06:10:38 -    ✅ 找到 5 条结果
+2026-03-31 06:10:39 - 🔍 Crossref: automotive paint adhesion
+2026-03-31 06:10:40 -    ✅ 找到 5 条结果
+2026-03-31 06:10:41 - 🔍 arXiv: automotive paint adhesion
+2026-03-31 06:10:58 - 
+📌 搜索关键词: car paint protection coating
+2026-03-31 06:10:58 - 🔍 Semantic Scholar: car paint protection coating
+2026-03-31 06:10:59 -    ❌ HTTP 429
+2026-03-31 06:11:00 - 🔍 OpenAlex: car paint protection coating
+2026-03-31 06:11:02 -    ✅ 找到 5 条结果
+2026-03-31 06:11:03 - 🔍 Crossref: car paint protection coating
+2026-03-31 06:11:04 -    ✅ 找到 5 条结果
+2026-03-31 06:11:06 - 🔍 arXiv: car paint protection coating
+2026-03-31 06:11:23 - 
+📌 搜索关键词: 新能源汽车涂层材料
+2026-03-31 06:11:23 - 🔍 Semantic Scholar: 新能源汽车涂层材料
+2026-03-31 06:11:24 -    ❌ HTTP 429
+2026-03-31 06:11:25 - 🔍 OpenAlex: 新能源汽车涂层材料
+2026-03-31 06:11:26 -    ✅ 找到 0 条结果
+2026-03-31 06:11:27 - 🔍 Crossref: 新能源汽车涂层材料
+2026-03-31 06:11:28 -    ✅ 找到 5 条结果
+2026-03-31 06:11:29 - 🔍 arXiv: 新能源汽车涂层材料
+2026-03-31 06:12:00 -    ❌ 错误: HTTPSConnectionPool(host='export.arxiv.org', port=443): Read timed out. (read timeout=30)
+2026-03-31 06:12:01 - 
+📌 搜索关键词: 汽车涂料新工艺
+2026-03-31 06:12:01 - 🔍 Semantic Scholar: 汽车涂料新工艺
+2026-03-31 06:12:02 -    ❌ HTTP 429
+2026-03-31 06:12:03 - 🔍 OpenAlex: 汽车涂料新工艺
+2026-03-31 06:12:05 -    ✅ 找到 5 条结果
+2026-03-31 06:12:06 - 🔍 Crossref: 汽车涂料新工艺
+2026-03-31 06:12:07 -    ✅ 找到 5 条结果
+2026-03-31 06:12:08 - 🔍 arXiv: 汽车涂料新工艺
+2026-03-31 06:12:38 -    ❌ 错误: HTTPSConnectionPool(host='export.arxiv.org', port=443): Read timed out. (read timeout=30)
+2026-03-31 06:12:40 - 
+📌 搜索关键词: 3C coating material
+2026-03-31 06:12:40 - 🔍 Semantic Scholar: 3C coating material
+2026-03-31 06:12:40 -    ❌ HTTP 429
+2026-03-31 06:12:41 - 🔍 OpenAlex: 3C coating material
+2026-03-31 06:12:44 -    ✅ 找到 5 条结果
+2026-03-31 06:12:45 - 🔍 Crossref: 3C coating material
+2026-03-31 06:12:46 -    ✅ 找到 5 条结果
+2026-03-31 06:12:47 - 🔍 arXiv: 3C coating material
+2026-03-31 06:13:18 -    ❌ 错误: HTTPSConnectionPool(host='export.arxiv.org', port=443): Read timed out. (read timeout=30)
+2026-03-31 06:13:19 - 
+📌 搜索关键词: electronic coating nano
+2026-03-31 06:13:19 - 🔍 Semantic Scholar: electronic coating nano
+2026-03-31 06:13:19 -    ❌ HTTP 429
+2026-03-31 06:13:20 - 🔍 OpenAlex: electronic coating nano
+2026-03-31 06:13:22 -    ✅ 找到 5 条结果
+2026-03-31 06:13:24 - 🔍 Crossref: electronic coating nano
+2026-03-31 06:13:24 -    ✅ 找到 5 条结果
+2026-03-31 06:13:26 - 🔍 arXiv: electronic coating nano
+2026-03-31 06:13:36 -    ✅ 找到 3 条结果
+2026-03-31 06:13:38 - 
+📌 搜索关键词: smartphone coating technology
+2026-03-31 06:13:38 - 🔍 Semantic Scholar: smartphone coating technology
+2026-03-31 06:13:38 -    ❌ HTTP 429
+2026-03-31 06:13:39 - 🔍 OpenAlex: smartphone coating technology
+2026-03-31 06:13:40 -    ✅ 找到 5 条结果
+2026-03-31 06:13:41 - 🔍 Crossref: smartphone coating technology
+2026-03-31 06:13:42 -    ✅ 找到 5 条结果
+2026-03-31 06:13:43 - 🔍 arXiv: smartphone coating technology
+2026-03-31 06:14:14 -    ❌ 错误: HTTPSConnectionPool(host='export.arxiv.org', port=443): Read timed out. (read timeout=30)
+2026-03-31 06:14:15 - 
+📌 搜索关键词: 防腐涂层 电子
+2026-03-31 06:14:15 - 🔍 Semantic Scholar: 防腐涂层 电子
+2026-03-31 06:14:16 -    ❌ HTTP 429
+2026-03-31 06:14:17 - 🔍 OpenAlex: 防腐涂层 电子
+2026-03-31 06:14:18 -    ✅ 找到 5 条结果
+2026-03-31 06:14:20 - 🔍 Crossref: 防腐涂层 电子
+2026-03-31 06:14:20 -    ✅ 找到 5 条结果
+2026-03-31 06:14:21 - 🔍 arXiv: 防腐涂层 电子
+2026-03-31 06:14:52 -    ❌ 错误: HTTPSConnectionPool(host='export.arxiv.org', port=443): Read timed out. (read timeout=30)
+2026-03-31 06:14:53 - 
+📌 搜索关键词: functional coating
+2026-03-31 06:14:53 - 🔍 Semantic Scholar: functional coating
+2026-03-31 06:14:57 -    ✅ 找到 5 条结果
+2026-03-31 06:14:58 - 🔍 OpenAlex: functional coating
+2026-03-31 06:14:59 -    ✅ 找到 5 条结果
+2026-03-31 06:15:00 - 🔍 Crossref: functional coating
+2026-03-31 06:15:02 -    ✅ 找到 5 条结果
+2026-03-31 06:15:03 - 🔍 arXiv: functional coating
+2026-03-31 06:15:34 -    ❌ 错误: HTTPSConnectionPool(host='export.arxiv.org', port=443): Read timed out. (read timeout=30)
+2026-03-31 06:15:35 - 
+📌 搜索关键词: nano coating surface
+2026-03-31 06:15:35 - 🔍 Semantic Scholar: nano coating surface
+2026-03-31 06:15:36 -    ❌ HTTP 429
+2026-03-31 06:15:37 - 🔍 OpenAlex: nano coating surface
+2026-03-31 06:15:39 -    ✅ 找到 5 条结果
+2026-03-31 06:15:40 - 🔍 Crossref: nano coating surface
+2026-03-31 06:15:41 -    ✅ 找到 5 条结果
+2026-03-31 06:15:42 - 🔍 arXiv: nano coating surface
+2026-03-31 06:16:13 -    ❌ 错误: HTTPSConnectionPool(host='export.arxiv.org', port=443): Read timed out. (read timeout=30)
+2026-03-31 06:16:14 - 
+📌 搜索关键词: smart coating self-healing
+2026-03-31 06:16:14 - 🔍 Semantic Scholar: smart coating self-healing
+2026-03-31 06:16:15 -    ❌ HTTP 429
+2026-03-31 06:16:16 - 🔍 OpenAlex: smart coating self-healing
+2026-03-31 06:16:18 -    ✅ 找到 5 条结果
+2026-03-31 06:16:20 - 🔍 Crossref: smart coating self-healing
+2026-03-31 06:16:21 -    ✅ 找到 5 条结果
+2026-03-31 06:16:22 - 🔍 arXiv: smart coating self-healing
+2026-03-31 06:16:52 -    ❌ 错误: HTTPSConnectionPool(host='export.arxiv.org', port=443): Read timed out. (read timeout=30)
+2026-03-31 06:16:54 - 
+📌 搜索关键词: 功能涂料 新材料
+2026-03-31 06:16:54 - 🔍 Semantic Scholar: 功能涂料 新材料
+2026-03-31 06:16:56 -    ❌ HTTP 429
+2026-03-31 06:16:57 - 🔍 OpenAlex: 功能涂料 新材料
+2026-03-31 06:16:59 -    ✅ 找到 5 条结果
+2026-03-31 06:17:00 - 🔍 Crossref: 功能涂料 新材料
+2026-03-31 06:17:01 -    ✅ 找到 5 条结果
+2026-03-31 06:17:02 - 🔍 arXiv: 功能涂料 新材料
+2026-03-31 06:17:33 -    ❌ 错误: HTTPSConnectionPool(host='export.arxiv.org', port=443): Read timed out. (read timeout=30)
+2026-03-31 06:17:34 - 
+📌 搜索关键词: surface treatment technology
+2026-03-31 06:17:34 - 🔍 Semantic Scholar: surface treatment technology
+2026-03-31 06:17:35 -    ❌ HTTP 429
+2026-03-31 06:17:36 - 🔍 OpenAlex: surface treatment technology
+2026-03-31 06:17:38 -    ✅ 找到 5 条结果
+2026-03-31 06:17:39 - 🔍 Crossref: surface treatment technology
+2026-03-31 06:17:40 -    ✅ 找到 5 条结果
+2026-03-31 06:17:41 - 🔍 arXiv: surface treatment technology
+2026-03-31 06:17:59 - 
+📌 搜索关键词: corrosion protection coating
+2026-03-31 06:17:59 - 🔍 Semantic Scholar: corrosion protection coating
+2026-03-31 06:17:59 -    ❌ HTTP 429
+2026-03-31 06:18:00 - 🔍 OpenAlex: corrosion protection coating
+2026-03-31 06:18:03 -    ✅ 找到 5 条结果
+2026-03-31 06:18:04 - 🔍 Crossref: corrosion protection coating
+2026-03-31 06:18:05 -    ✅ 找到 5 条结果
+2026-03-31 06:18:06 - 🔍 arXiv: corrosion protection coating
+2026-03-31 06:18:34 -    ✅ 找到 3 条结果
+2026-03-31 06:18:35 - 
+📌 搜索关键词: paint adhesion promoter
+2026-03-31 06:18:35 - 🔍 Semantic Scholar: paint adhesion promoter
+2026-03-31 06:18:37 -    ✅ 找到 5 条结果
+2026-03-31 06:18:38 - 🔍 OpenAlex: paint adhesion promoter
+2026-03-31 06:18:40 -    ✅ 找到 5 条结果
+2026-03-31 06:18:41 - 🔍 Crossref: paint adhesion promoter
+2026-03-31 06:18:42 -    ✅ 找到 5 条结果
+2026-03-31 06:18:43 - 🔍 arXiv: paint adhesion promoter
+2026-03-31 06:18:59 -    ✅ 找到 3 条结果
+2026-03-31 06:19:00 - 
+📌 搜索关键词: 表面处理 新工艺
+2026-03-31 06:19:00 - 🔍 Semantic Scholar: 表面处理 新工艺
+2026-03-31 06:19:01 -    ❌ HTTP 429
+2026-03-31 06:19:02 - 🔍 OpenAlex: 表面处理 新工艺
+2026-03-31 06:19:04 -    ✅ 找到 5 条结果
+2026-03-31 06:19:05 - 🔍 Crossref: 表面处理 新工艺
+2026-03-31 06:19:06 -    ✅ 找到 5 条结果
+2026-03-31 06:19:07 - 🔍 arXiv: 表面处理 新工艺
+2026-03-31 06:19:23 -    ✅ 找到 0 条结果
+2026-03-31 06:19:24 - 
+✅ 共找到 173 篇文献
+2026-03-31 06:19:24 - 💾 报告已保存: /Users/rayxu/.openclaw/workspace/scripts/literature/literature-20260331-061924.json
+2026-03-31 06:19:24 - ============================================================
+2026-03-31 06:19:24 - 💾 简报已保存: /Users/rayxu/.openclaw/workspace/scripts/literature/literature-brief-20260331-061924.txt
+2026-04-01 06:10:01 - ============================================================
+2026-04-01 06:10:01 - 文献监控开始
+2026-04-01 06:10:01 - 
+📌 搜索关键词: functional coating automotive
+2026-04-01 06:10:01 - 🔍 Semantic Scholar: functional coating automotive
+2026-04-01 06:10:02 -    ❌ HTTP 429
+2026-04-01 06:10:03 - 🔍 OpenAlex: functional coating automotive
+2026-04-01 06:10:06 -    ✅ 找到 5 条结果
+2026-04-01 06:10:07 - 🔍 Crossref: functional coating automotive
+2026-04-01 06:10:07 -    ✅ 找到 5 条结果
+2026-04-01 06:10:09 - 🔍 arXiv: functional coating automotive
+2026-04-01 06:10:10 -    ✅ 找到 3 条结果
+2026-04-01 06:10:11 - 
+📌 搜索关键词: automotive paint adhesion
+2026-04-01 06:10:11 - 🔍 Semantic Scholar: automotive paint adhesion
+2026-04-01 06:10:11 -    ❌ HTTP 429
+2026-04-01 06:10:13 - 🔍 OpenAlex: automotive paint adhesion
+2026-04-01 06:10:14 -    ✅ 找到 5 条结果
+2026-04-01 06:10:15 - 🔍 Crossref: automotive paint adhesion
+2026-04-01 06:10:15 -    ✅ 找到 5 条结果
+2026-04-01 06:10:16 - 🔍 arXiv: automotive paint adhesion
+2026-04-01 06:10:18 -    ✅ 找到 3 条结果
+2026-04-01 06:10:19 - 
+📌 搜索关键词: car paint protection coating
+2026-04-01 06:10:19 - 🔍 Semantic Scholar: car paint protection coating
+2026-04-01 06:10:19 -    ❌ HTTP 429
+2026-04-01 06:10:20 - 🔍 OpenAlex: car paint protection coating
+2026-04-01 06:10:23 -    ✅ 找到 5 条结果
+2026-04-01 06:10:24 - 🔍 Crossref: car paint protection coating
+2026-04-01 06:10:24 -    ✅ 找到 5 条结果
+2026-04-01 06:10:26 - 🔍 arXiv: car paint protection coating
+2026-04-01 06:10:27 -    ✅ 找到 3 条结果
+2026-04-01 06:10:28 - 
+📌 搜索关键词: 新能源汽车涂层材料
+2026-04-01 06:10:28 - 🔍 Semantic Scholar: 新能源汽车涂层材料
+2026-04-01 06:10:29 -    ✅ 找到 0 条结果
+2026-04-01 06:10:30 - 🔍 OpenAlex: 新能源汽车涂层材料
+2026-04-01 06:10:31 -    ✅ 找到 0 条结果
+2026-04-01 06:10:32 - 🔍 Crossref: 新能源汽车涂层材料
+2026-04-01 06:10:33 -    ✅ 找到 5 条结果
+2026-04-01 06:10:34 - 🔍 arXiv: 新能源汽车涂层材料
+2026-04-01 06:10:35 -    ✅ 找到 0 条结果
+2026-04-01 06:10:37 - 
+📌 搜索关键词: 汽车涂料新工艺
+2026-04-01 06:10:37 - 🔍 Semantic Scholar: 汽车涂料新工艺
+2026-04-01 06:10:37 -    ❌ HTTP 429
+2026-04-01 06:10:38 - 🔍 OpenAlex: 汽车涂料新工艺
+2026-04-01 06:10:39 -    ✅ 找到 5 条结果
+2026-04-01 06:10:41 - 🔍 Crossref: 汽车涂料新工艺
+2026-04-01 06:10:41 -    ✅ 找到 5 条结果
+2026-04-01 06:10:42 - 🔍 arXiv: 汽车涂料新工艺
+2026-04-01 06:10:43 -    ✅ 找到 0 条结果
+2026-04-01 06:10:45 - 
+📌 搜索关键词: 3C coating material
+2026-04-01 06:10:45 - 🔍 Semantic Scholar: 3C coating material
+2026-04-01 06:10:45 -    ❌ HTTP 429
+2026-04-01 06:10:46 - 🔍 OpenAlex: 3C coating material
+2026-04-01 06:10:51 -    ✅ 找到 5 条结果
+2026-04-01 06:10:52 - 🔍 Crossref: 3C coating material
+2026-04-01 06:10:53 -    ✅ 找到 5 条结果
+2026-04-01 06:10:54 - 🔍 arXiv: 3C coating material
+2026-04-01 06:10:56 -    ✅ 找到 3 条结果
+2026-04-01 06:10:57 - 
+📌 搜索关键词: electronic coating nano
+2026-04-01 06:10:57 - 🔍 Semantic Scholar: electronic coating nano
+2026-04-01 06:10:57 -    ❌ HTTP 429
+2026-04-01 06:10:58 - 🔍 OpenAlex: electronic coating nano
+2026-04-01 06:11:00 -    ✅ 找到 5 条结果
+2026-04-01 06:11:01 - 🔍 Crossref: electronic coating nano
+2026-04-01 06:11:02 -    ✅ 找到 5 条结果
+2026-04-01 06:11:03 - 🔍 arXiv: electronic coating nano
+2026-04-01 06:11:04 -    ✅ 找到 3 条结果
+2026-04-01 06:11:05 - 
+📌 搜索关键词: smartphone coating technology
+2026-04-01 06:11:05 - 🔍 Semantic Scholar: smartphone coating technology
+2026-04-01 06:11:06 -    ❌ HTTP 429
+2026-04-01 06:11:07 - 🔍 OpenAlex: smartphone coating technology
+2026-04-01 06:11:09 -    ✅ 找到 5 条结果
+2026-04-01 06:11:10 - 🔍 Crossref: smartphone coating technology
+2026-04-01 06:11:11 -    ✅ 找到 5 条结果
+2026-04-01 06:11:12 - 🔍 arXiv: smartphone coating technology
+2026-04-01 06:11:13 -    ✅ 找到 3 条结果
+2026-04-01 06:11:14 - 
+📌 搜索关键词: 防腐涂层 电子
+2026-04-01 06:11:14 - 🔍 Semantic Scholar: 防腐涂层 电子
+2026-04-01 06:11:15 -    ❌ HTTP 429
+2026-04-01 06:11:16 - 🔍 OpenAlex: 防腐涂层 电子
+2026-04-01 06:11:18 -    ✅ 找到 5 条结果
+2026-04-01 06:11:19 - 🔍 Crossref: 防腐涂层 电子
+2026-04-01 06:11:19 -    ✅ 找到 5 条结果
+2026-04-01 06:11:21 - 🔍 arXiv: 防腐涂层 电子
+2026-04-01 06:11:22 -    ✅ 找到 0 条结果
+2026-04-01 06:11:23 - 
+📌 搜索关键词: functional coating
+2026-04-01 06:11:23 - 🔍 Semantic Scholar: functional coating
+2026-04-01 06:11:23 -    ❌ HTTP 429
+2026-04-01 06:11:24 - 🔍 OpenAlex: functional coating
+2026-04-01 06:11:26 -    ✅ 找到 5 条结果
+2026-04-01 06:11:28 - 🔍 Crossref: functional coating
+2026-04-01 06:11:28 -    ✅ 找到 5 条结果
+2026-04-01 06:11:29 - 🔍 arXiv: functional coating
+2026-04-01 06:11:31 -    ✅ 找到 3 条结果
+2026-04-01 06:11:32 - 
+📌 搜索关键词: nano coating surface
+2026-04-01 06:11:32 - 🔍 Semantic Scholar: nano coating surface
+2026-04-01 06:11:32 -    ❌ HTTP 429
+2026-04-01 06:11:33 - 🔍 OpenAlex: nano coating surface
+2026-04-01 06:11:34 -    ✅ 找到 5 条结果
+2026-04-01 06:11:36 - 🔍 Crossref: nano coating surface
+2026-04-01 06:11:36 -    ✅ 找到 5 条结果
+2026-04-01 06:11:37 - 🔍 arXiv: nano coating surface
+2026-04-01 06:11:39 -    ✅ 找到 3 条结果
+2026-04-01 06:11:40 - 
+📌 搜索关键词: smart coating self-healing
+2026-04-01 06:11:40 - 🔍 Semantic Scholar: smart coating self-healing
+2026-04-01 06:11:40 -    ❌ HTTP 429
+2026-04-01 06:11:41 - 🔍 OpenAlex: smart coating self-healing
+2026-04-01 06:11:43 -    ✅ 找到 5 条结果
+2026-04-01 06:11:44 - 🔍 Crossref: smart coating self-healing
+2026-04-01 06:11:44 -    ✅ 找到 5 条结果
+2026-04-01 06:11:46 - 🔍 arXiv: smart coating self-healing
+2026-04-01 06:11:47 -    ✅ 找到 3 条结果
+2026-04-01 06:11:48 - 
+📌 搜索关键词: 功能涂料 新材料
+2026-04-01 06:11:48 - 🔍 Semantic Scholar: 功能涂料 新材料
+2026-04-01 06:11:49 -    ✅ 找到 5 条结果
+2026-04-01 06:11:50 - 🔍 OpenAlex: 功能涂料 新材料
+2026-04-01 06:11:52 -    ✅ 找到 5 条结果
+2026-04-01 06:11:53 - 🔍 Crossref: 功能涂料 新材料
+2026-04-01 06:11:54 -    ✅ 找到 5 条结果
+2026-04-01 06:11:55 - 🔍 arXiv: 功能涂料 新材料
+2026-04-01 06:11:56 -    ✅ 找到 0 条结果
+2026-04-01 06:11:57 - 
+📌 搜索关键词: surface treatment technology
+2026-04-01 06:11:57 - 🔍 Semantic Scholar: surface treatment technology
+2026-04-01 06:11:58 -    ❌ HTTP 429
+2026-04-01 06:11:59 - 🔍 OpenAlex: surface treatment technology
+2026-04-01 06:12:00 -    ✅ 找到 5 条结果
+2026-04-01 06:12:02 - 🔍 Crossref: surface treatment technology
+2026-04-01 06:12:02 -    ✅ 找到 5 条结果
+2026-04-01 06:12:03 - 🔍 arXiv: surface treatment technology
+2026-04-01 06:12:05 -    ✅ 找到 3 条结果
+2026-04-01 06:12:06 - 
+📌 搜索关键词: corrosion protection coating
+2026-04-01 06:12:06 - 🔍 Semantic Scholar: corrosion protection coating
+2026-04-01 06:12:06 -    ❌ HTTP 429
+2026-04-01 06:12:08 - 🔍 OpenAlex: corrosion protection coating
+2026-04-01 06:12:11 -    ✅ 找到 5 条结果
+2026-04-01 06:12:12 - 🔍 Crossref: corrosion protection coating
+2026-04-01 06:12:13 -    ✅ 找到 5 条结果
+2026-04-01 06:12:14 - 🔍 arXiv: corrosion protection coating
+2026-04-01 06:12:15 -    ✅ 找到 3 条结果
+2026-04-01 06:12:17 - 
+📌 搜索关键词: paint adhesion promoter
+2026-04-01 06:12:17 - 🔍 Semantic Scholar: paint adhesion promoter
+2026-04-01 06:12:17 -    ❌ HTTP 429
+2026-04-01 06:12:18 - 🔍 OpenAlex: paint adhesion promoter
+2026-04-01 06:12:21 -    ✅ 找到 5 条结果
+2026-04-01 06:12:22 - 🔍 Crossref: paint adhesion promoter
+2026-04-01 06:12:23 -    ✅ 找到 5 条结果
+2026-04-01 06:12:24 - 🔍 arXiv: paint adhesion promoter
+2026-04-01 06:12:25 -    ✅ 找到 3 条结果
+2026-04-01 06:12:26 - 
+📌 搜索关键词: 表面处理 新工艺
+2026-04-01 06:12:26 - 🔍 Semantic Scholar: 表面处理 新工艺
+2026-04-01 06:12:26 -    ❌ HTTP 429
+2026-04-01 06:12:28 - 🔍 OpenAlex: 表面处理 新工艺
+2026-04-01 06:12:30 -    ✅ 找到 5 条结果
+2026-04-01 06:12:31 - 🔍 Crossref: 表面处理 新工艺
+2026-04-01 06:12:31 -    ✅ 找到 5 条结果
+2026-04-01 06:12:33 - 🔍 arXiv: 表面处理 新工艺
+2026-04-01 06:12:33 -    ❌ 错误: HTTPSConnectionPool(host='export.arxiv.org', port=443): Max retries exceeded with url: /api/query?search_query=all%3A%E8%A1%A8%E9%9D%A2%E5%A4%84%E7%90%86+%E6%96%B0%E5%B7%A5%E8%89%BA&start=0&max_results=3&sortBy=submittedDate&sortOrder=descending (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))
+2026-04-01 06:12:34 - 
+✅ 共找到 183 篇文献
+2026-04-01 06:12:34 - 💾 报告已保存: /Users/rayxu/.openclaw/workspace/scripts/literature/literature-20260401-061234.json
+2026-04-01 06:12:34 - ============================================================
+2026-04-01 06:12:34 - 💾 简报已保存: /Users/rayxu/.openclaw/workspace/scripts/literature/literature-brief-20260401-061234.txt
+2026-04-03 22:07:19 - ============================================================
+2026-04-03 22:07:19 - 文献监控开始
+2026-04-03 22:07:19 - 
+📌 搜索关键词: functional coating automotive
+2026-04-03 22:07:19 - 🔍 Semantic Scholar: functional coating automotive
+2026-04-03 22:07:20 -    ❌ HTTP 429
+2026-04-03 22:07:21 - 🔍 OpenAlex: functional coating automotive
+2026-04-03 22:07:23 -    ✅ 找到 5 条结果
+2026-04-03 22:07:24 - 🔍 Crossref: functional coating automotive
+2026-04-03 22:07:26 -    ✅ 找到 5 条结果
+2026-04-03 22:07:27 - 🔍 arXiv: functional coating automotive
+2026-04-03 22:07:31 -    ✅ 找到 3 条结果
+2026-04-03 22:07:32 - 
+📌 搜索关键词: automotive paint adhesion
+2026-04-03 22:07:32 - 🔍 Semantic Scholar: automotive paint adhesion
+2026-04-03 22:07:35 -    ✅ 找到 5 条结果
+2026-04-03 22:07:36 - 🔍 OpenAlex: automotive paint adhesion
+2026-04-03 22:07:38 -    ✅ 找到 5 条结果
+2026-04-03 22:07:39 - 🔍 Crossref: automotive paint adhesion
+2026-04-03 22:07:40 -    ✅ 找到 5 条结果
+2026-04-03 22:07:41 - 🔍 arXiv: automotive paint adhesion
+2026-04-03 22:07:43 -    ✅ 找到 3 条结果
+2026-04-03 22:07:44 - 
+📌 搜索关键词: car paint protection coating
+2026-04-03 22:07:44 - 🔍 Semantic Scholar: car paint protection coating
+2026-04-03 22:07:46 -    ❌ HTTP 429
+2026-04-03 22:07:47 - 🔍 OpenAlex: car paint protection coating
+2026-04-03 22:07:49 -    ✅ 找到 5 条结果
+2026-04-03 22:07:50 - 🔍 Crossref: car paint protection coating
+2026-04-03 22:07:52 -    ✅ 找到 5 条结果
+2026-04-03 22:07:53 - 🔍 arXiv: car paint protection coating
+2026-04-03 22:07:56 -    ✅ 找到 3 条结果
+2026-04-03 22:07:57 - 
+📌 搜索关键词: 新能源汽车涂层材料
+2026-04-03 22:07:57 - 🔍 Semantic Scholar: 新能源汽车涂层材料
+2026-04-03 22:07:58 -    ❌ HTTP 429
+2026-04-03 22:07:59 - 🔍 OpenAlex: 新能源汽车涂层材料
+2026-04-03 22:08:01 -    ✅ 找到 0 条结果
+2026-04-03 22:08:02 - 🔍 Crossref: 新能源汽车涂层材料
+2026-04-03 22:08:05 -    ✅ 找到 5 条结果
+2026-04-03 22:08:06 - 🔍 arXiv: 新能源汽车涂层材料
+2026-04-03 22:08:08 -    ✅ 找到 0 条结果
+2026-04-03 22:08:09 - 
+📌 搜索关键词: 汽车涂料新工艺
+2026-04-03 22:08:09 - 🔍 Semantic Scholar: 汽车涂料新工艺
+2026-04-03 22:08:11 -    ❌ HTTP 429
+2026-04-03 22:08:12 - 🔍 OpenAlex: 汽车涂料新工艺
+2026-04-03 22:08:13 -    ✅ 找到 5 条结果
+2026-04-03 22:08:14 - 🔍 Crossref: 汽车涂料新工艺
+2026-04-03 22:08:15 -    ✅ 找到 5 条结果
+2026-04-03 22:08:16 - 🔍 arXiv: 汽车涂料新工艺
+2026-04-03 22:08:46 -    ✅ 找到 0 条结果
+2026-04-03 22:08:47 - 
+📌 搜索关键词: in-mold coating automotive
+2026-04-03 22:08:47 - 🔍 Semantic Scholar: in-mold coating automotive
+2026-04-03 22:08:49 -    ✅ 找到 5 条结果
+2026-04-03 22:08:50 - 🔍 OpenAlex: in-mold coating automotive
+2026-04-03 22:08:51 -    ✅ 找到 5 条结果
+2026-04-03 22:08:52 - 🔍 Crossref: in-mold coating automotive
+2026-04-03 22:08:53 -    ✅ 找到 5 条结果
+2026-04-03 22:08:54 - 🔍 arXiv: in-mold coating automotive
+2026-04-03 22:08:59 -    ✅ 找到 3 条结果
+2026-04-03 22:09:00 - 
+📌 搜索关键词: IMC in-mold coating exterior
+2026-04-03 22:09:00 - 🔍 Semantic Scholar: IMC in-mold coating exterior
+2026-04-03 22:09:02 -    ❌ HTTP 429
+2026-04-03 22:09:03 - 🔍 OpenAlex: IMC in-mold coating exterior
+2026-04-03 22:09:07 -    ✅ 找到 5 条结果
+2026-04-03 22:09:08 - 🔍 Crossref: IMC in-mold coating exterior
+2026-04-03 22:09:10 -    ✅ 找到 5 条结果
+2026-04-03 22:09:11 - 🔍 arXiv: IMC in-mold coating exterior
+2026-04-03 22:09:14 -    ✅ 找到 3 条结果
+2026-04-03 22:09:15 - 
+📌 搜索关键词: ColorForm KraussMaffei
+2026-04-03 22:09:15 - 🔍 Semantic Scholar: ColorForm KraussMaffei
+2026-04-03 22:09:18 -    ❌ HTTP 429
+2026-04-03 22:09:19 - 🔍 OpenAlex: ColorForm KraussMaffei
+2026-04-03 22:09:21 -    ✅ 找到 0 条结果
+2026-04-03 22:09:22 - 🔍 Crossref: ColorForm KraussMaffei
+2026-04-03 22:09:23 -    ✅ 找到 5 条结果
+2026-04-03 22:09:24 - 🔍 arXiv: ColorForm KraussMaffei
+2026-04-03 22:09:56 -    ❌ 错误: HTTPSConnectionPool(host='export.arxiv.org', port=443): Read timed out. (read timeout=30)
+2026-04-03 22:09:57 - 
+📌 搜索关键词: clearmelt Engel
+2026-04-03 22:09:57 - 🔍 Semantic Scholar: clearmelt Engel
+2026-04-03 22:09:58 -    ❌ HTTP 429
+2026-04-03 22:09:59 - 🔍 OpenAlex: clearmelt Engel
+2026-04-03 22:10:00 -    ✅ 找到 1 条结果
+2026-04-03 22:10:02 - 🔍 Crossref: clearmelt Engel
+2026-04-03 22:10:05 -    ✅ 找到 5 条结果
+2026-04-03 22:10:06 - 🔍 arXiv: clearmelt Engel
+2026-04-03 22:10:15 -    ✅ 找到 3 条结果
+2026-04-03 22:10:16 - 
+📌 搜索关键词: 模内涂料 汽车外饰
+2026-04-03 22:10:16 - 🔍 Semantic Scholar: 模内涂料 汽车外饰
+2026-04-03 22:10:19 -    ❌ HTTP 429
+2026-04-03 22:10:20 - 🔍 OpenAlex: 模内涂料 汽车外饰
+2026-04-03 22:10:25 -    ✅ 找到 0 条结果
+2026-04-03 22:10:26 - 🔍 Crossref: 模内涂料 汽车外饰
+2026-04-03 22:10:28 -    ✅ 找到 5 条结果
+2026-04-03 22:10:29 - 🔍 arXiv: 模内涂料 汽车外饰
+2026-04-03 22:10:32 -    ❌ 错误: HTTPSConnectionPool(host='export.arxiv.org', port=443): Max retries exceeded with url: /api/query?search_query=all%3A%E6%A8%A1%E5%86%85%E6%B6%82%E6%96%99+%E6%B1%BD%E8%BD%A6%E5%A4%96%E9%A5%B0&start=0&max_results=3&sortBy=submittedDate&sortOrder=descending (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))
+2026-04-03 22:10:33 - 
+📌 搜索关键词: in-mold coating polyurethane
+2026-04-03 22:10:33 - 🔍 Semantic Scholar: in-mold coating polyurethane
+2026-04-03 22:10:35 -    ❌ HTTP 429
+2026-04-03 22:10:36 - 🔍 OpenAlex: in-mold coating polyurethane
+2026-04-03 22:10:39 -    ✅ 找到 5 条结果
+2026-04-03 22:10:40 - 🔍 Crossref: in-mold coating polyurethane
+2026-04-03 22:10:42 -    ✅ 找到 5 条结果
+2026-04-03 22:10:43 - 🔍 arXiv: in-mold coating polyurethane
+2026-04-03 22:10:46 - 
+📌 搜索关键词: 3C coating material
+2026-04-03 22:10:46 - 🔍 Semantic Scholar: 3C coating material
+2026-04-03 22:10:47 -    ❌ HTTP 429
+2026-04-03 22:10:48 - 🔍 OpenAlex: 3C coating material
+2026-04-03 22:10:53 -    ✅ 找到 5 条结果
+2026-04-03 22:10:54 - 🔍 Crossref: 3C coating material
+2026-04-03 22:10:56 -    ✅ 找到 5 条结果
+2026-04-03 22:10:57 - 🔍 arXiv: 3C coating material
+2026-04-03 22:11:01 - 
+📌 搜索关键词: electronic coating nano
+2026-04-03 22:11:01 - 🔍 Semantic Scholar: electronic coating nano
+2026-04-03 22:11:02 -    ❌ HTTP 429
+2026-04-03 22:11:03 - 🔍 OpenAlex: electronic coating nano
+2026-04-03 22:11:09 -    ✅ 找到 5 条结果
+2026-04-03 22:11:10 - 🔍 Crossref: electronic coating nano
+2026-04-03 22:11:13 -    ✅ 找到 5 条结果
+2026-04-03 22:11:14 - 🔍 arXiv: electronic coating nano
+2026-04-03 22:11:34 - ============================================================
+2026-04-03 22:11:34 - 文献监控开始
+2026-04-03 22:11:34 - 
+📌 搜索关键词: in-mold coating automotive
+2026-04-03 22:11:34 - 🔍 Semantic Scholar: in-mold coating automotive
+2026-04-03 22:11:36 -    ❌ HTTP 429
+2026-04-03 22:11:37 - 🔍 OpenAlex: in-mold coating automotive
+2026-04-03 22:11:45 -    ❌ 错误: HTTPSConnectionPool(host='export.arxiv.org', port=443): Read timed out. (read timeout=30)
+2026-04-03 22:11:46 - 
+📌 搜索关键词: smartphone coating technology
+2026-04-03 22:11:46 - 🔍 Semantic Scholar: smartphone coating technology
+2026-04-03 22:11:48 -    ❌ HTTP 429
+2026-04-03 22:11:49 - 🔍 OpenAlex: smartphone coating technology
+2026-04-03 22:11:54 -    ❌ 错误: HTTPSConnectionPool(host='api.openalex.org', port=443): Max retries exceeded with url: /works?search=in-mold+coating+automotive&per-page=5&select=title%2Cauthorships%2Cpublication_year%2Cabstract_inverted_index%2C+cited_by_count%2C+primary_location%2Cdoi%2Cid (Caused by ProxyError('Unable to connect to proxy', RemoteDisconnected('Remote end closed connection without response')))
+2026-04-03 22:11:55 - 🔍 Crossref: in-mold coating automotive
+2026-04-03 22:11:56 -    ✅ 找到 5 条结果
+2026-04-03 22:11:56 -    ✅ 找到 5 条结果
+2026-04-03 22:11:57 - 🔍 Crossref: smartphone coating technology
+2026-04-03 22:11:57 - 🔍 arXiv: in-mold coating automotive
+2026-04-03 22:11:58 -    ✅ 找到 5 条结果
+2026-04-03 22:11:59 -    ✅ 找到 3 条结果
+2026-04-03 22:11:59 - 🔍 arXiv: smartphone coating technology
+2026-04-03 22:12:00 - 
+📌 搜索关键词: ColorForm KraussMaffei
+2026-04-03 22:12:00 - 🔍 Semantic Scholar: ColorForm KraussMaffei
+2026-04-03 22:12:02 -    ❌ HTTP 429
+2026-04-03 22:12:03 - 🔍 OpenAlex: ColorForm KraussMaffei
+2026-04-03 22:12:05 -    ❌ 错误: HTTPSConnectionPool(host='api.openalex.org', port=443): Max retries exceeded with url: /works?search=ColorForm+KraussMaffei&per-page=5&select=title%2Cauthorships%2Cpublication_year%2Cabstract_inverted_index%2C+cited_by_count%2C+primary_location%2Cdoi%2Cid (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))
+2026-04-03 22:12:06 - 🔍 Crossref: ColorForm KraussMaffei
+2026-04-03 22:12:08 -    ✅ 找到 5 条结果
+2026-04-03 22:12:09 - 🔍 arXiv: ColorForm KraussMaffei
+2026-04-03 22:12:21 -    ✅ 找到 0 条结果
+2026-04-03 22:12:22 - 
+📌 搜索关键词: 模内涂料 汽车外饰
+2026-04-03 22:12:22 - 🔍 Semantic Scholar: 模内涂料 汽车外饰
+2026-04-03 22:12:23 -    ❌ HTTP 429
+2026-04-03 22:12:24 - 🔍 OpenAlex: 模内涂料 汽车外饰
+2026-04-03 22:12:26 -    ✅ 找到 0 条结果
+2026-04-03 22:12:27 - 🔍 Crossref: 模内涂料 汽车外饰
+2026-04-03 22:12:29 -    ✅ 找到 5 条结果
+2026-04-03 22:12:30 - 🔍 arXiv: 模内涂料 汽车外饰
+2026-04-03 22:12:30 -    ❌ 错误: HTTPSConnectionPool(host='export.arxiv.org', port=443): Read timed out. (read timeout=30)
+2026-04-03 22:12:31 - 
+📌 搜索关键词: 防腐涂层 电子
+2026-04-03 22:12:31 - 🔍 Semantic Scholar: 防腐涂层 电子
+2026-04-03 22:12:33 -    ❌ HTTP 429
+2026-04-03 22:12:34 - 🔍 OpenAlex: 防腐涂层 电子
+2026-04-03 22:12:36 -    ✅ 找到 5 条结果
+2026-04-03 22:12:37 - 🔍 Crossref: 防腐涂层 电子
+2026-04-03 22:12:38 -    ✅ 找到 5 条结果
+2026-04-03 22:12:39 - 🔍 arXiv: 防腐涂层 电子
+2026-04-03 22:12:43 - 
+📌 搜索关键词: functional coating
+2026-04-03 22:12:43 - 🔍 Semantic Scholar: functional coating
+2026-04-03 22:12:47 -    ❌ HTTP 429
+2026-04-03 22:12:49 - 🔍 OpenAlex: functional coating
+2026-04-03 22:12:51 -    ✅ 找到 5 条结果
+2026-04-03 22:12:52 - 🔍 Crossref: functional coating
+2026-04-03 22:12:55 -    ✅ 找到 5 条结果
+2026-04-03 22:12:56 - 🔍 arXiv: functional coating
+2026-04-03 22:13:02 -    ❌ 错误: HTTPSConnectionPool(host='export.arxiv.org', port=443): Read timed out. (read timeout=30)
+2026-04-03 22:13:03 - 
+✅ 共找到 17 篇文献
+2026-04-03 22:13:03 - 💾 报告已保存: /Users/rayxu/.openclaw/workspace/scripts/literature/literature-20260403-221303.json
+2026-04-03 22:13:03 - ============================================================
+2026-04-03 22:13:03 - 💾 简报已保存: /Users/rayxu/.openclaw/workspace/scripts/literature/literature-brief-20260403-221303.txt
+2026-04-03 22:13:28 -    ❌ 错误: HTTPSConnectionPool(host='export.arxiv.org', port=443): Read timed out. (read timeout=30)
+2026-04-03 22:13:29 - 
+📌 搜索关键词: nano coating surface
+2026-04-03 22:13:29 - 🔍 Semantic Scholar: nano coating surface
+2026-04-03 22:13:30 -    ❌ HTTP 429
+2026-04-03 22:13:31 - 🔍 OpenAlex: nano coating surface
+2026-04-03 22:13:32 -    ✅ 找到 5 条结果
+2026-04-03 22:13:34 - 🔍 Crossref: nano coating surface
+2026-04-03 22:13:36 -    ✅ 找到 5 条结果
+2026-04-03 22:13:37 - 🔍 arXiv: nano coating surface
+2026-04-03 22:14:05 - 
+📌 搜索关键词: smart coating self-healing
+2026-04-03 22:14:05 - 🔍 Semantic Scholar: smart coating self-healing
+2026-04-03 22:14:05 -    ❌ HTTP 429
+2026-04-03 22:14:06 - 🔍 OpenAlex: smart coating self-healing
+2026-04-03 22:14:10 -    ✅ 找到 5 条结果
+2026-04-03 22:14:11 - 🔍 Crossref: smart coating self-healing
+2026-04-03 22:14:13 -    ✅ 找到 5 条结果
+2026-04-03 22:14:14 - 🔍 arXiv: smart coating self-healing
+2026-04-03 22:14:17 - 
+📌 搜索关键词: 功能涂料 新材料
+2026-04-03 22:14:17 - 🔍 Semantic Scholar: 功能涂料 新材料
+2026-04-03 22:14:20 -    ✅ 找到 5 条结果
+2026-04-03 22:14:21 - 🔍 OpenAlex: 功能涂料 新材料
+2026-04-03 22:14:22 - ============================================================
+2026-04-03 22:14:22 - 文献监控开始
+2026-04-03 22:14:22 - 
+📌 搜索关键词: 光致变色涂料
+2026-04-03 22:14:22 - 🔍 Semantic Scholar: 光致变色涂料
+2026-04-03 22:14:23 -    ✅ 找到 5 条结果
+2026-04-03 22:14:23 -    ❌ HTTP 429
+2026-04-03 22:14:24 - 🔍 Crossref: 功能涂料 新材料
+2026-04-03 22:14:24 - 🔍 OpenAlex: 光致变色涂料
+2026-04-03 22:14:25 -    ✅ 找到 5 条结果
+2026-04-03 22:14:26 -    ✅ 找到 5 条结果
+2026-04-03 22:14:26 - 🔍 Crossref: 光致变色涂料
+2026-04-03 22:14:27 - 🔍 arXiv: 功能涂料 新材料
+2026-04-03 22:14:29 -    ✅ 找到 5 条结果
+2026-04-03 22:14:30 - 🔍 arXiv: 光致变色涂料
+2026-04-03 22:14:39 - ============================================================
+2026-04-03 22:14:39 - 文献监控开始
+2026-04-03 22:14:39 - 
+📌 搜索关键词: photochromic coating
+2026-04-03 22:14:39 - 🔍 Semantic Scholar: photochromic coating
+2026-04-03 22:14:41 -    ❌ HTTP 429
+2026-04-03 22:14:42 - 🔍 OpenAlex: photochromic coating
+2026-04-03 22:14:44 -    ✅ 找到 5 条结果
+2026-04-03 22:14:45 - 
+📌 搜索关键词: surface treatment technology
+2026-04-03 22:14:45 - 🔍 Semantic Scholar: surface treatment technology
+2026-04-03 22:14:45 - 🔍 Crossref: photochromic coating
+2026-04-03 22:14:47 -    ❌ HTTP 429
+2026-04-03 22:14:48 -    ✅ 找到 5 条结果
+2026-04-03 22:14:48 - 🔍 OpenAlex: surface treatment technology
+2026-04-03 22:14:49 - 🔍 arXiv: photochromic coating
+2026-04-03 22:14:51 -    ✅ 找到 5 条结果
+2026-04-03 22:14:52 - 🔍 Crossref: surface treatment technology
+2026-04-03 22:14:53 -    ✅ 找到 5 条结果
+2026-04-03 22:14:54 - 🔍 arXiv: surface treatment technology
+2026-04-03 22:14:56 - ============================================================
+2026-04-03 22:14:56 - 文献监控开始
+2026-04-03 22:14:56 - 
+📌 搜索关键词: photochromic coating
+2026-04-03 22:14:56 - 🔍 Semantic Scholar: photochromic coating
+2026-04-03 22:14:57 -    ❌ HTTP 429
+2026-04-03 22:14:58 - 🔍 OpenAlex: photochromic coating
+2026-04-03 22:14:59 -    ✅ 找到 5 条结果
+2026-04-03 22:15:00 - 🔍 Crossref: photochromic coating
+2026-04-03 22:15:01 -    ❌ 错误: HTTPSConnectionPool(host='export.arxiv.org', port=443): Read timed out. (read timeout=30)
+2026-04-03 22:15:02 - 
+📌 搜索关键词: photochromic coating
+2026-04-03 22:15:02 - 🔍 Semantic Scholar: photochromic coating
+2026-04-03 22:15:03 -    ✅ 找到 5 条结果
+2026-04-03 22:15:03 -    ❌ HTTP 429
+2026-04-03 22:15:04 - 🔍 arXiv: photochromic coating
+2026-04-03 22:15:04 - 🔍 OpenAlex: photochromic coating
+2026-04-03 22:15:06 -    ✅ 找到 5 条结果
+2026-04-03 22:15:07 - 🔍 Crossref: photochromic coating
+2026-04-03 22:15:08 -    ✅ 找到 5 条结果
+2026-04-03 22:15:09 - 🔍 arXiv: photochromic coating
+2026-04-03 22:15:11 - ============================================================
+2026-04-03 22:15:11 - 文献监控开始
+2026-04-03 22:15:11 - 
+📌 搜索关键词: photochromic coating
+2026-04-03 22:15:11 - 🔍 Semantic Scholar: photochromic coating
+2026-04-03 22:15:11 -    ❌ HTTP 429
+2026-04-03 22:15:12 - 🔍 OpenAlex: photochromic coating
+2026-04-03 22:15:14 -    ✅ 找到 5 条结果
+2026-04-03 22:15:15 - 🔍 Crossref: photochromic coating
+2026-04-03 22:15:18 -    ✅ 找到 5 条结果
+2026-04-03 22:15:19 - 🔍 arXiv: photochromic coating
+2026-04-03 22:15:20 -    ❌ 错误: HTTPSConnectionPool(host='export.arxiv.org', port=443): Read timed out. (read timeout=30)
+2026-04-03 22:15:21 - 
+📌 搜索关键词: 光致变色涂料
+2026-04-03 22:15:21 - 🔍 Semantic Scholar: 光致变色涂料
+2026-04-03 22:15:22 -    ❌ HTTP 429
+2026-04-03 22:15:22 - 
+📌 搜索关键词: 光致变色涂料
+2026-04-03 22:15:22 - 🔍 Semantic Scholar: 光致变色涂料
+2026-04-03 22:15:23 - 🔍 OpenAlex: 光致变色涂料
+2026-04-03 22:15:23 -    ❌ HTTP 429
+2026-04-03 22:15:24 - 🔍 OpenAlex: 光致变色涂料
+2026-04-03 22:15:26 -    ✅ 找到 5 条结果
+2026-04-03 22:15:26 -    ✅ 找到 5 条结果
+2026-04-03 22:15:26 -    ❌ 错误: HTTPSConnectionPool(host='export.arxiv.org', port=443): Read timed out. (read timeout=30)
+2026-04-03 22:15:27 - 🔍 Crossref: 光致变色涂料
+2026-04-03 22:15:27 - 🔍 Crossref: 光致变色涂料
+2026-04-03 22:15:27 - 
+📌 搜索关键词: corrosion protection coating
+2026-04-03 22:15:27 - 🔍 Semantic Scholar: corrosion protection coating
+2026-04-03 22:15:28 -    ❌ HTTP 429
+2026-04-03 22:15:29 -    ✅ 找到 5 条结果
+2026-04-03 22:15:29 -    ✅ 找到 5 条结果
+2026-04-03 22:15:29 - 🔍 OpenAlex: corrosion protection coating
+2026-04-03 22:15:30 - 🔍 arXiv: 光致变色涂料
+2026-04-03 22:15:30 - 🔍 arXiv: 光致变色涂料
+2026-04-03 22:15:31 -    ✅ 找到 5 条结果
+2026-04-03 22:15:31 -    ❌ 错误: HTTPSConnectionPool(host='export.arxiv.org', port=443): Max retries exceeded with url: /api/query?search_query=all%3A%E5%85%89%E8%87%B4%E5%8F%98%E8%89%B2%E6%B6%82%E6%96%99&start=0&max_results=3&sortBy=submittedDate&sortOrder=descending (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1081)')))
+2026-04-03 22:15:32 - 🔍 Crossref: corrosion protection coating
+2026-04-03 22:15:32 - 
+📌 搜索关键词: photochromic smart coating
+2026-04-03 22:15:32 - 🔍 Semantic Scholar: photochromic smart coating
+2026-04-03 22:15:33 -    ❌ HTTP 429
+2026-04-03 22:15:34 - 🔍 OpenAlex: photochromic smart coating
+2026-04-03 22:15:35 -    ✅ 找到 5 条结果
+2026-04-03 22:15:36 - 🔍 arXiv: corrosion protection coating
+2026-04-03 22:15:36 -    ✅ 找到 5 条结果
+2026-04-03 22:15:38 - 🔍 Crossref: photochromic smart coating
+2026-04-03 22:15:39 -    ✅ 找到 5 条结果
+2026-04-03 22:15:40 - 🔍 arXiv: photochromic smart coating
+2026-04-03 22:15:41 -    ❌ 错误: HTTPSConnectionPool(host='export.arxiv.org', port=443): Read timed out. (read timeout=30)
+2026-04-03 22:15:42 - 
+📌 搜索关键词: photochromic paint automotive
+2026-04-03 22:15:42 - 🔍 Semantic Scholar: photochromic paint automotive
+2026-04-03 22:15:43 -    ❌ HTTP 429
+2026-04-03 22:15:44 - 🔍 OpenAlex: photochromic paint automotive
+2026-04-03 22:15:47 -    ✅ 找到 5 条结果
+2026-04-03 22:15:48 - 🔍 Crossref: photochromic paint automotive
+2026-04-03 22:15:49 -    ✅ 找到 5 条结果
+2026-04-03 22:15:50 -    ❌ 错误: HTTPSConnectionPool(host='export.arxiv.org', port=443): Read timed out. (read timeout=30)
+2026-04-03 22:15:50 - 🔍 arXiv: photochromic paint automotive
+2026-04-03 22:15:51 - 
+📌 搜索关键词: 光致变色涂料
+2026-04-03 22:15:51 - 🔍 Semantic Scholar: 光致变色涂料
+2026-04-03 22:15:52 -    ✅ 找到 5 条结果
+2026-04-03 22:15:54 - 🔍 OpenAlex: 光致变色涂料
+2026-04-03 22:15:56 -    ✅ 找到 5 条结果
+2026-04-03 22:15:57 - 🔍 Crossref: 光致变色涂料
+2026-04-03 22:15:58 -    ✅ 找到 5 条结果
+2026-04-03 22:15:59 - 
+✅ 共找到 23 篇文献
+2026-04-03 22:15:59 - 💾 报告已保存: /Users/rayxu/.openclaw/workspace/scripts/literature/literature-20260403-221559.json
+2026-04-03 22:15:59 - ============================================================
+2026-04-03 22:15:59 - 💾 简报已保存: /Users/rayxu/.openclaw/workspace/scripts/literature/literature-brief-20260403-221559.txt
+2026-04-03 22:15:59 -    ✅ 找到 3 条结果
+2026-04-03 22:15:59 - 🔍 arXiv: 光致变色涂料
+2026-04-03 22:16:00 - 
+✅ 共找到 31 篇文献
+2026-04-03 22:16:00 - 💾 报告已保存: /Users/rayxu/.openclaw/workspace/scripts/literature/literature-20260403-221600.json
+2026-04-03 22:16:00 - ============================================================
+2026-04-03 22:16:00 - 💾 简报已保存: /Users/rayxu/.openclaw/workspace/scripts/literature/literature-brief-20260403-221600.txt
+2026-04-03 22:16:02 -    ❌ 错误: HTTPSConnectionPool(host='export.arxiv.org', port=443): Read timed out. (read timeout=30)
+2026-04-03 22:16:03 - 
+📌 搜索关键词: photochromic smart coating
+2026-04-03 22:16:03 - 🔍 Semantic Scholar: photochromic smart coating
+2026-04-03 22:16:05 -    ❌ HTTP 429
+2026-04-03 22:16:06 - 🔍 OpenAlex: photochromic smart coating
+2026-04-03 22:16:07 -    ❌ 错误: HTTPSConnectionPool(host='export.arxiv.org', port=443): Read timed out. (read timeout=30)
+2026-04-03 22:16:07 -    ✅ 找到 5 条结果
+2026-04-03 22:16:08 - 
+📌 搜索关键词: paint adhesion promoter
+2026-04-03 22:16:08 - 🔍 Semantic Scholar: paint adhesion promoter
+2026-04-03 22:16:08 - 🔍 Crossref: photochromic smart coating
+2026-04-03 22:16:09 -    ❌ HTTP 429
+2026-04-03 22:16:09 -    ✅ 找到 5 条结果
+2026-04-03 22:16:10 - 🔍 OpenAlex: paint adhesion promoter
+2026-04-03 22:16:10 - 🔍 arXiv: photochromic smart coating
+2026-04-03 22:16:13 -    ✅ 找到 5 条结果
+2026-04-03 22:16:14 - 🔍 Crossref: paint adhesion promoter
+2026-04-03 22:16:16 -    ✅ 找到 5 条结果
+2026-04-03 22:16:17 - 🔍 arXiv: paint adhesion promoter
+2026-04-03 22:16:29 - 
+✅ 共找到 23 篇文献
+2026-04-03 22:16:29 - 💾 报告已保存: /Users/rayxu/.openclaw/workspace/scripts/literature/literature-20260403-221629.json
+2026-04-03 22:16:29 - ============================================================
+2026-04-03 22:16:29 - 💾 简报已保存: /Users/rayxu/.openclaw/workspace/scripts/literature/literature-brief-20260403-221629.txt
+2026-04-03 22:16:31 -    ❌ 错误: HTTPSConnectionPool(host='export.arxiv.org', port=443): Read timed out. (read timeout=30)
+2026-04-03 22:16:32 - 
+📌 搜索关键词: photochromic smart coating
+2026-04-03 22:16:32 - 🔍 Semantic Scholar: photochromic smart coating
+2026-04-03 22:16:33 -    ❌ HTTP 429
+2026-04-03 22:16:34 - 🔍 OpenAlex: photochromic smart coating
+2026-04-03 22:16:36 -    ✅ 找到 5 条结果
+2026-04-03 22:16:37 - 🔍 Crossref: photochromic smart coating
+2026-04-03 22:16:38 -    ✅ 找到 5 条结果
+2026-04-03 22:16:39 - 🔍 arXiv: photochromic smart coating
+2026-04-03 22:16:48 -    ❌ 错误: HTTPSConnectionPool(host='export.arxiv.org', port=443): Read timed out. (read timeout=30)
+2026-04-03 22:16:49 - 
+📌 搜索关键词: 表面处理 新工艺
+2026-04-03 22:16:49 - 🔍 Semantic Scholar: 表面处理 新工艺
+2026-04-03 22:16:50 -    ❌ HTTP 429
+2026-04-03 22:16:51 - 🔍 OpenAlex: 表面处理 新工艺
+2026-04-03 22:16:53 -    ✅ 找到 5 条结果
+2026-04-03 22:16:54 - 🔍 Crossref: 表面处理 新工艺
+2026-04-03 22:16:55 -    ✅ 找到 5 条结果
+2026-04-03 22:16:56 - 🔍 arXiv: 表面处理 新工艺
+2026-04-03 22:17:10 -    ❌ 错误: HTTPSConnectionPool(host='export.arxiv.org', port=443): Read timed out. (read timeout=30)
+2026-04-03 22:17:11 - 
+✅ 共找到 26 篇文献
+2026-04-03 22:17:11 - 💾 报告已保存: /Users/rayxu/.openclaw/workspace/scripts/literature/literature-20260403-221711.json
+2026-04-03 22:17:11 - ============================================================
+2026-04-03 22:17:11 - 💾 简报已保存: /Users/rayxu/.openclaw/workspace/scripts/literature/literature-brief-20260403-221711.txt
+2026-04-03 22:17:29 -    ❌ 错误: HTTPSConnectionPool(host='export.arxiv.org', port=443): Read timed out. (read timeout=30)
+2026-04-03 22:17:31 - 
+✅ 共找到 217 篇文献
+2026-04-03 22:17:31 - 💾 报告已保存: /Users/rayxu/.openclaw/workspace/scripts/literature/literature-20260403-221731.json
+2026-04-03 22:17:31 - ============================================================
+2026-04-03 22:17:31 - 💾 简报已保存: /Users/rayxu/.openclaw/workspace/scripts/literature/literature-brief-20260403-221731.txt
